@@ -1,0 +1,21 @@
+product_id,title,description,category,price,stock,version
+P1001,Noise-Cancelling Wireless Headphones,Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+P1002,Stainless Steel Travel Mug,Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+P1003,USB-C 65W Laptop Charger,Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+P1004,Everyday Running Shoes,Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+P1005,Organic Cotton Crew T-Shirt,Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+P1006,Adjustable Laptop Stand,Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+P1007,LED Desk Lamp with USB Port,"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+P1008,Insulated Stainless Water Bottle,Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+P1009,Mechanical Keyboard - Tactile Switches,"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+P1010,Memory Foam Pillow,"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+P1011,Canvas Everyday Backpack,18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+P1012,Resistance Band Set,Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+P1013,USB-C to HDMI Adapter,Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+P1014,Chef Knife 20 cm,Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+P1015,Blue-Light Reading Glasses,Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+P1016,Budget Wireless Mouse,Compact wireless mouse with adjustable sensitivity and a USB receiver.,Electronics,899.0,23,1.0
+P1017,Foldable Monitor Stand,Portable stand that raises a monitor and folds flat for storage.,Office Supplies,2450.0,0,1.0
+P1018,Creator Laptop,Performance laptop with a high-resolution display and 32 GB memory.,Electronics,59999.99,2,1.0
+P1019,Workstation Desktop,Desktop workstation configured for professional creative software.,Electronics,60000.0,5,1.0
+P1020,USB-C Earbuds,Wired in-ear headphones with an inline microphone and USB-C plug.,Electronics,1999.0,60,1.0

@@ -1,0 +1,11 @@
+fingerprint,product_id_a,product_id_b,description_a,description_b
+e,P1002,P1009,Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable."
+b,P1003,P1010,Compact GaN wall charger with one USB-C port and foldable prongs.,"Supportive standard-size pillow with a removable, machine-washable cover."
+d,P1012,P1013,Five latex exercise bands with different resistance levels and a storage pouch.,Portable adapter supporting 4K video output from compatible USB-C devices.
+4,P1007,P1014,"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.
+b,P1003,P1015,Compact GaN wall charger with one USB-C port and foldable prongs.,Lightweight rectangular frames with clear lenses for everyday screen use.
+b,P1010,P1015,"Supportive standard-size pillow with a removable, machine-washable cover.",Lightweight rectangular frames with clear lenses for everyday screen use.
+e,P1009,DUP-2,"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.
+b,P1003,SYN-001,Compact GaN wall charger with one USB-C port and foldable prongs.,Synthetic marketplace description number 1
+b,P1010,SYN-001,"Supportive standard-size pillow with a removable, machine-washable cover.",Synthetic marketplace description number 1
+b,P1015,SYN-001,Lightweight rectangular frames with clear lenses for everyday screen use.,Synthetic marketplace description number 1

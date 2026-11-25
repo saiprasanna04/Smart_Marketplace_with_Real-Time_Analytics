@@ -1,0 +1,293 @@
+{
+  "license": "https://unsplash.com/license",
+  "images": [
+    {
+      "product_id": "P1001",
+      "title": "Noise-Cancelling Wireless Headphones",
+      "source": "https://images.unsplash.com/photo-1587293823622-3a4743b0e601",
+      "local_path": "/storefront/assets/product-images/electronics/p1001-wireless-headphones.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 68788
+    },
+    {
+      "product_id": "P1002",
+      "title": "Stainless Steel Travel Mug",
+      "source": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d",
+      "local_path": "/storefront/assets/product-images/home-kitchen/p1002-travel-mug.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 10318
+    },
+    {
+      "product_id": "P1003",
+      "title": "USB-C 65W Laptop Charger",
+      "source": "https://images.unsplash.com/photo-1624272673361-335d488ef9f7",
+      "local_path": "/storefront/assets/product-images/electronics/p1003-usbc-charger.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 65910
+    },
+    {
+      "product_id": "P1004",
+      "title": "Everyday Running Shoes",
+      "source": "https://images.unsplash.com/photo-1637437757614-6491c8e915b5",
+      "local_path": "/storefront/assets/product-images/sports-outdoors/p1004-running-shoes.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 101536
+    },
+    {
+      "product_id": "P1005",
+      "title": "Organic Cotton Crew T-Shirt",
+      "source": "https://images.unsplash.com/photo-1716369786765-5de0bb2d2658",
+      "local_path": "/storefront/assets/product-images/clothing/p1005-cotton-tshirt.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 69852
+    },
+    {
+      "product_id": "P1006",
+      "title": "Adjustable Laptop Stand",
+      "source": "https://images.unsplash.com/photo-1658869402195-9f0ea192ecd5",
+      "local_path": "/storefront/assets/product-images/office-supplies/p1006-laptop-stand.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 76850
+    },
+    {
+      "product_id": "P1007",
+      "title": "LED Desk Lamp with USB Port",
+      "source": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+      "local_path": "/storefront/assets/product-images/home-kitchen/p1007-desk-lamp.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 17856
+    },
+    {
+      "product_id": "P1008",
+      "title": "Insulated Stainless Water Bottle",
+      "source": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "local_path": "/storefront/assets/product-images/sports-outdoors/p1008-water-bottle.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 11500
+    },
+    {
+      "product_id": "P1009",
+      "title": "Mechanical Keyboard - Tactile Switches",
+      "source": "https://images.unsplash.com/photo-1674621703172-ef68b33e52da",
+      "local_path": "/storefront/assets/product-images/electronics/p1009-mechanical-keyboard.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 62410
+    },
+    {
+      "product_id": "P1010",
+      "title": "Memory Foam Pillow",
+      "source": "https://images.unsplash.com/photo-1679437654307-80ca842ea88e",
+      "local_path": "/storefront/assets/product-images/home-kitchen/p1010-memory-foam-pillow.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 109354
+    },
+    {
+      "product_id": "P1011",
+      "title": "Canvas Everyday Backpack",
+      "source": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "local_path": "/storefront/assets/product-images/bags-luggage/p1011-canvas-backpack.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 45626
+    },
+    {
+      "product_id": "P1012",
+      "title": "Resistance Band Set",
+      "source": "https://images.unsplash.com/photo-1584827386916-b5351d3ba34b",
+      "local_path": "/storefront/assets/product-images/sports-outdoors/p1012-resistance-bands.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 22856
+    },
+    {
+      "product_id": "P1013",
+      "title": "USB-C Multiport Hub",
+      "source": "https://images.unsplash.com/photo-1760376789478-c1023d2dc007",
+      "local_path": "/storefront/assets/product-images/electronics/p1013-usbc-hdmi-adapter.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 30894
+    },
+    {
+      "product_id": "P1014",
+      "title": "Chef Knife 20 cm",
+      "source": "https://images.unsplash.com/photo-1593618998160-e34014e67546",
+      "local_path": "/storefront/assets/product-images/home-kitchen/p1014-chef-knife.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 46232
+    },
+    {
+      "product_id": "P1015",
+      "title": "Blue-Light Reading Glasses",
+      "source": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+      "local_path": "/storefront/assets/product-images/accessories/p1015-reading-glasses.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 16968
+    },
+    {
+      "product_id": "P1016",
+      "title": "Lightweight Programming Laptop 14-inch",
+      "source": "https://images.unsplash.com/photo-1661006670127-b560e732ce28",
+      "local_path": "/storefront/assets/product-images/electronics/p1016-programming-laptop.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 11656
+    },
+    {
+      "product_id": "P1017",
+      "title": "Everyday Smartphone 128 GB",
+      "source": "https://images.unsplash.com/photo-1509745651274-ddeb337c854a",
+      "local_path": "/storefront/assets/product-images/electronics/p1017-smartphone.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 92068
+    },
+    {
+      "product_id": "P1018",
+      "title": "Creator Laptop 15-inch",
+      "source": "https://images.unsplash.com/photo-1781971559730-3129f63d5bd7",
+      "local_path": "/storefront/assets/product-images/electronics/p1018-creator-laptop.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 29004
+    },
+    {
+      "product_id": "P1019",
+      "title": "Compact Smartphone 256 GB",
+      "source": "https://images.unsplash.com/photo-1557363339-e4ea35792896",
+      "local_path": "/storefront/assets/product-images/electronics/p1019-compact-smartphone.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 16732
+    },
+    {
+      "product_id": "P1020",
+      "title": "Studio Wireless Headset",
+      "source": "https://images.unsplash.com/photo-1613629758552-443027994609",
+      "local_path": "/storefront/assets/product-images/electronics/p1020-studio-headphones.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 19576
+    },
+    {
+      "product_id": "P1021",
+      "title": "Active Smartwatch",
+      "source": "https://images.unsplash.com/photo-1677515238009-a5e245703e74",
+      "local_path": "/storefront/assets/product-images/electronics/p1021-active-smartwatch.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 43578
+    },
+    {
+      "product_id": "P1022",
+      "title": "Classic Smartwatch",
+      "source": "https://images.unsplash.com/photo-1632794716789-42d9995fb5b6",
+      "local_path": "/storefront/assets/product-images/electronics/p1022-classic-smartwatch.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 64734
+    },
+    {
+      "product_id": "P1023",
+      "title": "Compact Mechanical Keyboard",
+      "source": "https://images.unsplash.com/photo-1660051759835-91a79e5ab426",
+      "local_path": "/storefront/assets/product-images/electronics/p1023-compact-keyboard.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 51152
+    },
+    {
+      "product_id": "P1024",
+      "title": "Lightweight Trail Shoes",
+      "source": "https://images.unsplash.com/photo-1637437411360-b4607d62ddd3",
+      "local_path": "/storefront/assets/product-images/footwear/p1024-trail-shoes.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 125704
+    },
+    {
+      "product_id": "P1025",
+      "title": "Soft Cotton Overshirt",
+      "source": "https://images.unsplash.com/photo-1716951918731-77d7682b4e63",
+      "local_path": "/storefront/assets/product-images/clothing/p1025-cotton-overshirt.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 54162
+    },
+    {
+      "product_id": "P1026",
+      "title": "Travel Laptop Backpack",
+      "source": "https://images.unsplash.com/photo-1622560481336-b44c811b0958",
+      "local_path": "/storefront/assets/product-images/bags-luggage/p1026-travel-backpack.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 31380
+    },
+    {
+      "product_id": "P1027",
+      "title": "Everyday Leather Carry Bag",
+      "source": "https://images.unsplash.com/photo-1732613842353-0fccc5b72d51",
+      "local_path": "/storefront/assets/product-images/bags-luggage/p1027-shoulder-bag.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 107862
+    },
+    {
+      "product_id": "P1028",
+      "title": "Countertop Blender",
+      "source": "https://images.unsplash.com/photo-1570222094114-d054a817e56b",
+      "local_path": "/storefront/assets/product-images/home-appliances/p1028-countertop-blender.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 103942
+    },
+    {
+      "product_id": "P1029",
+      "title": "Ergonomic Desk Chair",
+      "source": "https://images.unsplash.com/photo-1688578735122-f37256f1b8b0",
+      "local_path": "/storefront/assets/product-images/furniture/p1029-ergonomic-chair.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 62124
+    },
+    {
+      "product_id": "P1030",
+      "title": "Compact Living Room Sofa",
+      "source": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
+      "local_path": "/storefront/assets/product-images/furniture/p1030-compact-sofa.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 39984
+    },
+    {
+      "product_id": "P1031",
+      "title": "Everyday Cookware Set",
+      "source": "https://images.unsplash.com/photo-1556910602-38f53e68e15d",
+      "local_path": "/storefront/assets/product-images/home-kitchen/p1031-cookware-set.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 80224
+    },
+    {
+      "product_id": "P1032",
+      "title": "Modern Short Story Collection",
+      "source": "https://images.unsplash.com/photo-1573591276084-47884b4335f4",
+      "local_path": "/storefront/assets/product-images/books/p1032-short-story-collection.webp",
+      "license": "https://unsplash.com/license",
+      "format": "WebP",
+      "bytes": 40780
+    }
+  ]
+}

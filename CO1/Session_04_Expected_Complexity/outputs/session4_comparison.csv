@@ -1,0 +1,3 @@
+method,product_count,fingerprint_width_bits,description_comparisons,fingerprint_candidate_checks,exact_comparisons,median_execution_time_ms,correctness,duplicate_products,collision_pairs,trial_count
+naive_pairwise,57,,1596,0,1596,0.133300,True,2,0,31
+fingerprint_candidates,57,4,89,89,89,0.231200,True,2,87,31

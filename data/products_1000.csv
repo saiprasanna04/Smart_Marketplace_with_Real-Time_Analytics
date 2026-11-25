@@ -1,0 +1,1001 @@
+product_id,title,description,category,price,stock,version
+P1001,Noise-Cancelling Wireless Headphones,Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+P1002,Stainless Steel Travel Mug,Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+P1003,USB-C 65W Laptop Charger,Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+P1004,Everyday Running Shoes,Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+P1005,Organic Cotton Crew T-Shirt,Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+P1006,Adjustable Laptop Stand,Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+P1007,LED Desk Lamp with USB Port,"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+P1008,Insulated Stainless Water Bottle,Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+P1009,Mechanical Keyboard - Tactile Switches,"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+P1010,Memory Foam Pillow,"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+P1011,Canvas Everyday Backpack,18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+P1012,Resistance Band Set,Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+P1013,USB-C to HDMI Adapter,Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+P1014,Chef Knife 20 cm,Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+P1015,Blue-Light Reading Glasses,Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000016,Noise-Cancelling Wireless Headphones (benchmark sample 16),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000017,Stainless Steel Travel Mug (benchmark sample 17),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000018,USB-C 65W Laptop Charger (benchmark sample 18),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000019,Everyday Running Shoes (benchmark sample 19),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000020,Organic Cotton Crew T-Shirt (benchmark sample 20),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000021,Adjustable Laptop Stand (benchmark sample 21),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000022,LED Desk Lamp with USB Port (benchmark sample 22),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000023,Insulated Stainless Water Bottle (benchmark sample 23),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000024,Mechanical Keyboard - Tactile Switches (benchmark sample 24),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000025,Memory Foam Pillow (benchmark sample 25),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000026,Canvas Everyday Backpack (benchmark sample 26),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000027,Resistance Band Set (benchmark sample 27),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000028,USB-C to HDMI Adapter (benchmark sample 28),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000029,Chef Knife 20 cm (benchmark sample 29),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000030,Blue-Light Reading Glasses (benchmark sample 30),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000031,Noise-Cancelling Wireless Headphones (benchmark sample 31),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000032,Stainless Steel Travel Mug (benchmark sample 32),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000033,USB-C 65W Laptop Charger (benchmark sample 33),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000034,Everyday Running Shoes (benchmark sample 34),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000035,Organic Cotton Crew T-Shirt (benchmark sample 35),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000036,Adjustable Laptop Stand (benchmark sample 36),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000037,LED Desk Lamp with USB Port (benchmark sample 37),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000038,Insulated Stainless Water Bottle (benchmark sample 38),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000039,Mechanical Keyboard - Tactile Switches (benchmark sample 39),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000040,Memory Foam Pillow (benchmark sample 40),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000041,Canvas Everyday Backpack (benchmark sample 41),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000042,Resistance Band Set (benchmark sample 42),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000043,USB-C to HDMI Adapter (benchmark sample 43),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000044,Chef Knife 20 cm (benchmark sample 44),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000045,Blue-Light Reading Glasses (benchmark sample 45),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000046,Noise-Cancelling Wireless Headphones (benchmark sample 46),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000047,Stainless Steel Travel Mug (benchmark sample 47),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000048,USB-C 65W Laptop Charger (benchmark sample 48),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000049,Everyday Running Shoes (benchmark sample 49),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000050,Organic Cotton Crew T-Shirt (benchmark sample 50),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000051,Adjustable Laptop Stand (benchmark sample 51),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000052,LED Desk Lamp with USB Port (benchmark sample 52),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000053,Insulated Stainless Water Bottle (benchmark sample 53),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000054,Mechanical Keyboard - Tactile Switches (benchmark sample 54),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000055,Memory Foam Pillow (benchmark sample 55),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000056,Canvas Everyday Backpack (benchmark sample 56),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000057,Resistance Band Set (benchmark sample 57),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000058,USB-C to HDMI Adapter (benchmark sample 58),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000059,Chef Knife 20 cm (benchmark sample 59),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000060,Blue-Light Reading Glasses (benchmark sample 60),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000061,Noise-Cancelling Wireless Headphones (benchmark sample 61),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000062,Stainless Steel Travel Mug (benchmark sample 62),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000063,USB-C 65W Laptop Charger (benchmark sample 63),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000064,Everyday Running Shoes (benchmark sample 64),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000065,Organic Cotton Crew T-Shirt (benchmark sample 65),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000066,Adjustable Laptop Stand (benchmark sample 66),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000067,LED Desk Lamp with USB Port (benchmark sample 67),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000068,Insulated Stainless Water Bottle (benchmark sample 68),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000069,Mechanical Keyboard - Tactile Switches (benchmark sample 69),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000070,Memory Foam Pillow (benchmark sample 70),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000071,Canvas Everyday Backpack (benchmark sample 71),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000072,Resistance Band Set (benchmark sample 72),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000073,USB-C to HDMI Adapter (benchmark sample 73),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000074,Chef Knife 20 cm (benchmark sample 74),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000075,Blue-Light Reading Glasses (benchmark sample 75),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000076,Noise-Cancelling Wireless Headphones (benchmark sample 76),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000077,Stainless Steel Travel Mug (benchmark sample 77),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000078,USB-C 65W Laptop Charger (benchmark sample 78),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000079,Everyday Running Shoes (benchmark sample 79),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000080,Organic Cotton Crew T-Shirt (benchmark sample 80),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000081,Adjustable Laptop Stand (benchmark sample 81),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000082,LED Desk Lamp with USB Port (benchmark sample 82),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000083,Insulated Stainless Water Bottle (benchmark sample 83),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000084,Mechanical Keyboard - Tactile Switches (benchmark sample 84),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000085,Memory Foam Pillow (benchmark sample 85),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000086,Canvas Everyday Backpack (benchmark sample 86),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000087,Resistance Band Set (benchmark sample 87),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000088,USB-C to HDMI Adapter (benchmark sample 88),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000089,Chef Knife 20 cm (benchmark sample 89),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000090,Blue-Light Reading Glasses (benchmark sample 90),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000091,Noise-Cancelling Wireless Headphones (benchmark sample 91),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000092,Stainless Steel Travel Mug (benchmark sample 92),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000093,USB-C 65W Laptop Charger (benchmark sample 93),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000094,Everyday Running Shoes (benchmark sample 94),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000095,Organic Cotton Crew T-Shirt (benchmark sample 95),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000096,Adjustable Laptop Stand (benchmark sample 96),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000097,LED Desk Lamp with USB Port (benchmark sample 97),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000098,Insulated Stainless Water Bottle (benchmark sample 98),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000099,Mechanical Keyboard - Tactile Switches (benchmark sample 99),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000100,Memory Foam Pillow (benchmark sample 100),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000101,Canvas Everyday Backpack (benchmark sample 101),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000102,Resistance Band Set (benchmark sample 102),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000103,USB-C to HDMI Adapter (benchmark sample 103),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000104,Chef Knife 20 cm (benchmark sample 104),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000105,Blue-Light Reading Glasses (benchmark sample 105),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000106,Noise-Cancelling Wireless Headphones (benchmark sample 106),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000107,Stainless Steel Travel Mug (benchmark sample 107),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000108,USB-C 65W Laptop Charger (benchmark sample 108),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000109,Everyday Running Shoes (benchmark sample 109),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000110,Organic Cotton Crew T-Shirt (benchmark sample 110),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000111,Adjustable Laptop Stand (benchmark sample 111),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000112,LED Desk Lamp with USB Port (benchmark sample 112),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000113,Insulated Stainless Water Bottle (benchmark sample 113),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000114,Mechanical Keyboard - Tactile Switches (benchmark sample 114),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000115,Memory Foam Pillow (benchmark sample 115),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000116,Canvas Everyday Backpack (benchmark sample 116),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000117,Resistance Band Set (benchmark sample 117),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000118,USB-C to HDMI Adapter (benchmark sample 118),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000119,Chef Knife 20 cm (benchmark sample 119),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000120,Blue-Light Reading Glasses (benchmark sample 120),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000121,Noise-Cancelling Wireless Headphones (benchmark sample 121),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000122,Stainless Steel Travel Mug (benchmark sample 122),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000123,USB-C 65W Laptop Charger (benchmark sample 123),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000124,Everyday Running Shoes (benchmark sample 124),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000125,Organic Cotton Crew T-Shirt (benchmark sample 125),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000126,Adjustable Laptop Stand (benchmark sample 126),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000127,LED Desk Lamp with USB Port (benchmark sample 127),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000128,Insulated Stainless Water Bottle (benchmark sample 128),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000129,Mechanical Keyboard - Tactile Switches (benchmark sample 129),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000130,Memory Foam Pillow (benchmark sample 130),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000131,Canvas Everyday Backpack (benchmark sample 131),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000132,Resistance Band Set (benchmark sample 132),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000133,USB-C to HDMI Adapter (benchmark sample 133),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000134,Chef Knife 20 cm (benchmark sample 134),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000135,Blue-Light Reading Glasses (benchmark sample 135),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000136,Noise-Cancelling Wireless Headphones (benchmark sample 136),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000137,Stainless Steel Travel Mug (benchmark sample 137),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000138,USB-C 65W Laptop Charger (benchmark sample 138),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000139,Everyday Running Shoes (benchmark sample 139),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000140,Organic Cotton Crew T-Shirt (benchmark sample 140),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000141,Adjustable Laptop Stand (benchmark sample 141),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000142,LED Desk Lamp with USB Port (benchmark sample 142),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000143,Insulated Stainless Water Bottle (benchmark sample 143),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000144,Mechanical Keyboard - Tactile Switches (benchmark sample 144),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000145,Memory Foam Pillow (benchmark sample 145),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000146,Canvas Everyday Backpack (benchmark sample 146),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000147,Resistance Band Set (benchmark sample 147),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000148,USB-C to HDMI Adapter (benchmark sample 148),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000149,Chef Knife 20 cm (benchmark sample 149),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000150,Blue-Light Reading Glasses (benchmark sample 150),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000151,Noise-Cancelling Wireless Headphones (benchmark sample 151),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000152,Stainless Steel Travel Mug (benchmark sample 152),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000153,USB-C 65W Laptop Charger (benchmark sample 153),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000154,Everyday Running Shoes (benchmark sample 154),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000155,Organic Cotton Crew T-Shirt (benchmark sample 155),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000156,Adjustable Laptop Stand (benchmark sample 156),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000157,LED Desk Lamp with USB Port (benchmark sample 157),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000158,Insulated Stainless Water Bottle (benchmark sample 158),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000159,Mechanical Keyboard - Tactile Switches (benchmark sample 159),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000160,Memory Foam Pillow (benchmark sample 160),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000161,Canvas Everyday Backpack (benchmark sample 161),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000162,Resistance Band Set (benchmark sample 162),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000163,USB-C to HDMI Adapter (benchmark sample 163),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000164,Chef Knife 20 cm (benchmark sample 164),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000165,Blue-Light Reading Glasses (benchmark sample 165),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000166,Noise-Cancelling Wireless Headphones (benchmark sample 166),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000167,Stainless Steel Travel Mug (benchmark sample 167),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000168,USB-C 65W Laptop Charger (benchmark sample 168),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000169,Everyday Running Shoes (benchmark sample 169),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000170,Organic Cotton Crew T-Shirt (benchmark sample 170),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000171,Adjustable Laptop Stand (benchmark sample 171),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000172,LED Desk Lamp with USB Port (benchmark sample 172),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000173,Insulated Stainless Water Bottle (benchmark sample 173),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000174,Mechanical Keyboard - Tactile Switches (benchmark sample 174),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000175,Memory Foam Pillow (benchmark sample 175),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000176,Canvas Everyday Backpack (benchmark sample 176),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000177,Resistance Band Set (benchmark sample 177),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000178,USB-C to HDMI Adapter (benchmark sample 178),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000179,Chef Knife 20 cm (benchmark sample 179),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000180,Blue-Light Reading Glasses (benchmark sample 180),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000181,Noise-Cancelling Wireless Headphones (benchmark sample 181),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000182,Stainless Steel Travel Mug (benchmark sample 182),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000183,USB-C 65W Laptop Charger (benchmark sample 183),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000184,Everyday Running Shoes (benchmark sample 184),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000185,Organic Cotton Crew T-Shirt (benchmark sample 185),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000186,Adjustable Laptop Stand (benchmark sample 186),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000187,LED Desk Lamp with USB Port (benchmark sample 187),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000188,Insulated Stainless Water Bottle (benchmark sample 188),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000189,Mechanical Keyboard - Tactile Switches (benchmark sample 189),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000190,Memory Foam Pillow (benchmark sample 190),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000191,Canvas Everyday Backpack (benchmark sample 191),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000192,Resistance Band Set (benchmark sample 192),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000193,USB-C to HDMI Adapter (benchmark sample 193),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000194,Chef Knife 20 cm (benchmark sample 194),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000195,Blue-Light Reading Glasses (benchmark sample 195),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000196,Noise-Cancelling Wireless Headphones (benchmark sample 196),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000197,Stainless Steel Travel Mug (benchmark sample 197),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000198,USB-C 65W Laptop Charger (benchmark sample 198),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000199,Everyday Running Shoes (benchmark sample 199),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000200,Organic Cotton Crew T-Shirt (benchmark sample 200),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000201,Adjustable Laptop Stand (benchmark sample 201),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000202,LED Desk Lamp with USB Port (benchmark sample 202),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000203,Insulated Stainless Water Bottle (benchmark sample 203),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000204,Mechanical Keyboard - Tactile Switches (benchmark sample 204),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000205,Memory Foam Pillow (benchmark sample 205),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000206,Canvas Everyday Backpack (benchmark sample 206),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000207,Resistance Band Set (benchmark sample 207),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000208,USB-C to HDMI Adapter (benchmark sample 208),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000209,Chef Knife 20 cm (benchmark sample 209),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000210,Blue-Light Reading Glasses (benchmark sample 210),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000211,Noise-Cancelling Wireless Headphones (benchmark sample 211),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000212,Stainless Steel Travel Mug (benchmark sample 212),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000213,USB-C 65W Laptop Charger (benchmark sample 213),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000214,Everyday Running Shoes (benchmark sample 214),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000215,Organic Cotton Crew T-Shirt (benchmark sample 215),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000216,Adjustable Laptop Stand (benchmark sample 216),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000217,LED Desk Lamp with USB Port (benchmark sample 217),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000218,Insulated Stainless Water Bottle (benchmark sample 218),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000219,Mechanical Keyboard - Tactile Switches (benchmark sample 219),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000220,Memory Foam Pillow (benchmark sample 220),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000221,Canvas Everyday Backpack (benchmark sample 221),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000222,Resistance Band Set (benchmark sample 222),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000223,USB-C to HDMI Adapter (benchmark sample 223),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000224,Chef Knife 20 cm (benchmark sample 224),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000225,Blue-Light Reading Glasses (benchmark sample 225),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000226,Noise-Cancelling Wireless Headphones (benchmark sample 226),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000227,Stainless Steel Travel Mug (benchmark sample 227),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000228,USB-C 65W Laptop Charger (benchmark sample 228),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000229,Everyday Running Shoes (benchmark sample 229),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000230,Organic Cotton Crew T-Shirt (benchmark sample 230),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000231,Adjustable Laptop Stand (benchmark sample 231),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000232,LED Desk Lamp with USB Port (benchmark sample 232),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000233,Insulated Stainless Water Bottle (benchmark sample 233),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000234,Mechanical Keyboard - Tactile Switches (benchmark sample 234),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000235,Memory Foam Pillow (benchmark sample 235),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000236,Canvas Everyday Backpack (benchmark sample 236),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000237,Resistance Band Set (benchmark sample 237),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000238,USB-C to HDMI Adapter (benchmark sample 238),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000239,Chef Knife 20 cm (benchmark sample 239),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000240,Blue-Light Reading Glasses (benchmark sample 240),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000241,Noise-Cancelling Wireless Headphones (benchmark sample 241),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000242,Stainless Steel Travel Mug (benchmark sample 242),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000243,USB-C 65W Laptop Charger (benchmark sample 243),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000244,Everyday Running Shoes (benchmark sample 244),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000245,Organic Cotton Crew T-Shirt (benchmark sample 245),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000246,Adjustable Laptop Stand (benchmark sample 246),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000247,LED Desk Lamp with USB Port (benchmark sample 247),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000248,Insulated Stainless Water Bottle (benchmark sample 248),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000249,Mechanical Keyboard - Tactile Switches (benchmark sample 249),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000250,Memory Foam Pillow (benchmark sample 250),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000251,Canvas Everyday Backpack (benchmark sample 251),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000252,Resistance Band Set (benchmark sample 252),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000253,USB-C to HDMI Adapter (benchmark sample 253),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000254,Chef Knife 20 cm (benchmark sample 254),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000255,Blue-Light Reading Glasses (benchmark sample 255),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000256,Noise-Cancelling Wireless Headphones (benchmark sample 256),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000257,Stainless Steel Travel Mug (benchmark sample 257),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000258,USB-C 65W Laptop Charger (benchmark sample 258),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000259,Everyday Running Shoes (benchmark sample 259),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000260,Organic Cotton Crew T-Shirt (benchmark sample 260),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000261,Adjustable Laptop Stand (benchmark sample 261),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000262,LED Desk Lamp with USB Port (benchmark sample 262),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000263,Insulated Stainless Water Bottle (benchmark sample 263),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000264,Mechanical Keyboard - Tactile Switches (benchmark sample 264),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000265,Memory Foam Pillow (benchmark sample 265),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000266,Canvas Everyday Backpack (benchmark sample 266),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000267,Resistance Band Set (benchmark sample 267),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000268,USB-C to HDMI Adapter (benchmark sample 268),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000269,Chef Knife 20 cm (benchmark sample 269),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000270,Blue-Light Reading Glasses (benchmark sample 270),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000271,Noise-Cancelling Wireless Headphones (benchmark sample 271),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000272,Stainless Steel Travel Mug (benchmark sample 272),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000273,USB-C 65W Laptop Charger (benchmark sample 273),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000274,Everyday Running Shoes (benchmark sample 274),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000275,Organic Cotton Crew T-Shirt (benchmark sample 275),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000276,Adjustable Laptop Stand (benchmark sample 276),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000277,LED Desk Lamp with USB Port (benchmark sample 277),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000278,Insulated Stainless Water Bottle (benchmark sample 278),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000279,Mechanical Keyboard - Tactile Switches (benchmark sample 279),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000280,Memory Foam Pillow (benchmark sample 280),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000281,Canvas Everyday Backpack (benchmark sample 281),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000282,Resistance Band Set (benchmark sample 282),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000283,USB-C to HDMI Adapter (benchmark sample 283),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000284,Chef Knife 20 cm (benchmark sample 284),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000285,Blue-Light Reading Glasses (benchmark sample 285),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000286,Noise-Cancelling Wireless Headphones (benchmark sample 286),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000287,Stainless Steel Travel Mug (benchmark sample 287),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000288,USB-C 65W Laptop Charger (benchmark sample 288),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000289,Everyday Running Shoes (benchmark sample 289),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000290,Organic Cotton Crew T-Shirt (benchmark sample 290),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000291,Adjustable Laptop Stand (benchmark sample 291),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000292,LED Desk Lamp with USB Port (benchmark sample 292),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000293,Insulated Stainless Water Bottle (benchmark sample 293),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000294,Mechanical Keyboard - Tactile Switches (benchmark sample 294),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000295,Memory Foam Pillow (benchmark sample 295),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000296,Canvas Everyday Backpack (benchmark sample 296),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000297,Resistance Band Set (benchmark sample 297),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000298,USB-C to HDMI Adapter (benchmark sample 298),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000299,Chef Knife 20 cm (benchmark sample 299),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000300,Blue-Light Reading Glasses (benchmark sample 300),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000301,Noise-Cancelling Wireless Headphones (benchmark sample 301),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000302,Stainless Steel Travel Mug (benchmark sample 302),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000303,USB-C 65W Laptop Charger (benchmark sample 303),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000304,Everyday Running Shoes (benchmark sample 304),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000305,Organic Cotton Crew T-Shirt (benchmark sample 305),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000306,Adjustable Laptop Stand (benchmark sample 306),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000307,LED Desk Lamp with USB Port (benchmark sample 307),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000308,Insulated Stainless Water Bottle (benchmark sample 308),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000309,Mechanical Keyboard - Tactile Switches (benchmark sample 309),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000310,Memory Foam Pillow (benchmark sample 310),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000311,Canvas Everyday Backpack (benchmark sample 311),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000312,Resistance Band Set (benchmark sample 312),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000313,USB-C to HDMI Adapter (benchmark sample 313),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000314,Chef Knife 20 cm (benchmark sample 314),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000315,Blue-Light Reading Glasses (benchmark sample 315),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000316,Noise-Cancelling Wireless Headphones (benchmark sample 316),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000317,Stainless Steel Travel Mug (benchmark sample 317),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000318,USB-C 65W Laptop Charger (benchmark sample 318),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000319,Everyday Running Shoes (benchmark sample 319),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000320,Organic Cotton Crew T-Shirt (benchmark sample 320),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000321,Adjustable Laptop Stand (benchmark sample 321),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000322,LED Desk Lamp with USB Port (benchmark sample 322),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000323,Insulated Stainless Water Bottle (benchmark sample 323),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000324,Mechanical Keyboard - Tactile Switches (benchmark sample 324),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000325,Memory Foam Pillow (benchmark sample 325),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000326,Canvas Everyday Backpack (benchmark sample 326),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000327,Resistance Band Set (benchmark sample 327),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000328,USB-C to HDMI Adapter (benchmark sample 328),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000329,Chef Knife 20 cm (benchmark sample 329),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000330,Blue-Light Reading Glasses (benchmark sample 330),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000331,Noise-Cancelling Wireless Headphones (benchmark sample 331),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000332,Stainless Steel Travel Mug (benchmark sample 332),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000333,USB-C 65W Laptop Charger (benchmark sample 333),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000334,Everyday Running Shoes (benchmark sample 334),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000335,Organic Cotton Crew T-Shirt (benchmark sample 335),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000336,Adjustable Laptop Stand (benchmark sample 336),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000337,LED Desk Lamp with USB Port (benchmark sample 337),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000338,Insulated Stainless Water Bottle (benchmark sample 338),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000339,Mechanical Keyboard - Tactile Switches (benchmark sample 339),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000340,Memory Foam Pillow (benchmark sample 340),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000341,Canvas Everyday Backpack (benchmark sample 341),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000342,Resistance Band Set (benchmark sample 342),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000343,USB-C to HDMI Adapter (benchmark sample 343),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000344,Chef Knife 20 cm (benchmark sample 344),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000345,Blue-Light Reading Glasses (benchmark sample 345),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000346,Noise-Cancelling Wireless Headphones (benchmark sample 346),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000347,Stainless Steel Travel Mug (benchmark sample 347),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000348,USB-C 65W Laptop Charger (benchmark sample 348),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000349,Everyday Running Shoes (benchmark sample 349),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000350,Organic Cotton Crew T-Shirt (benchmark sample 350),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000351,Adjustable Laptop Stand (benchmark sample 351),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000352,LED Desk Lamp with USB Port (benchmark sample 352),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000353,Insulated Stainless Water Bottle (benchmark sample 353),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000354,Mechanical Keyboard - Tactile Switches (benchmark sample 354),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000355,Memory Foam Pillow (benchmark sample 355),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000356,Canvas Everyday Backpack (benchmark sample 356),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000357,Resistance Band Set (benchmark sample 357),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000358,USB-C to HDMI Adapter (benchmark sample 358),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000359,Chef Knife 20 cm (benchmark sample 359),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000360,Blue-Light Reading Glasses (benchmark sample 360),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000361,Noise-Cancelling Wireless Headphones (benchmark sample 361),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000362,Stainless Steel Travel Mug (benchmark sample 362),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000363,USB-C 65W Laptop Charger (benchmark sample 363),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000364,Everyday Running Shoes (benchmark sample 364),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000365,Organic Cotton Crew T-Shirt (benchmark sample 365),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000366,Adjustable Laptop Stand (benchmark sample 366),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000367,LED Desk Lamp with USB Port (benchmark sample 367),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000368,Insulated Stainless Water Bottle (benchmark sample 368),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000369,Mechanical Keyboard - Tactile Switches (benchmark sample 369),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000370,Memory Foam Pillow (benchmark sample 370),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000371,Canvas Everyday Backpack (benchmark sample 371),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000372,Resistance Band Set (benchmark sample 372),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000373,USB-C to HDMI Adapter (benchmark sample 373),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000374,Chef Knife 20 cm (benchmark sample 374),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000375,Blue-Light Reading Glasses (benchmark sample 375),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000376,Noise-Cancelling Wireless Headphones (benchmark sample 376),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000377,Stainless Steel Travel Mug (benchmark sample 377),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000378,USB-C 65W Laptop Charger (benchmark sample 378),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000379,Everyday Running Shoes (benchmark sample 379),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000380,Organic Cotton Crew T-Shirt (benchmark sample 380),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000381,Adjustable Laptop Stand (benchmark sample 381),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000382,LED Desk Lamp with USB Port (benchmark sample 382),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000383,Insulated Stainless Water Bottle (benchmark sample 383),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000384,Mechanical Keyboard - Tactile Switches (benchmark sample 384),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000385,Memory Foam Pillow (benchmark sample 385),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000386,Canvas Everyday Backpack (benchmark sample 386),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000387,Resistance Band Set (benchmark sample 387),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000388,USB-C to HDMI Adapter (benchmark sample 388),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000389,Chef Knife 20 cm (benchmark sample 389),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000390,Blue-Light Reading Glasses (benchmark sample 390),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000391,Noise-Cancelling Wireless Headphones (benchmark sample 391),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000392,Stainless Steel Travel Mug (benchmark sample 392),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000393,USB-C 65W Laptop Charger (benchmark sample 393),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000394,Everyday Running Shoes (benchmark sample 394),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000395,Organic Cotton Crew T-Shirt (benchmark sample 395),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000396,Adjustable Laptop Stand (benchmark sample 396),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000397,LED Desk Lamp with USB Port (benchmark sample 397),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000398,Insulated Stainless Water Bottle (benchmark sample 398),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000399,Mechanical Keyboard - Tactile Switches (benchmark sample 399),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000400,Memory Foam Pillow (benchmark sample 400),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000401,Canvas Everyday Backpack (benchmark sample 401),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000402,Resistance Band Set (benchmark sample 402),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000403,USB-C to HDMI Adapter (benchmark sample 403),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000404,Chef Knife 20 cm (benchmark sample 404),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000405,Blue-Light Reading Glasses (benchmark sample 405),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000406,Noise-Cancelling Wireless Headphones (benchmark sample 406),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000407,Stainless Steel Travel Mug (benchmark sample 407),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000408,USB-C 65W Laptop Charger (benchmark sample 408),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000409,Everyday Running Shoes (benchmark sample 409),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000410,Organic Cotton Crew T-Shirt (benchmark sample 410),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000411,Adjustable Laptop Stand (benchmark sample 411),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000412,LED Desk Lamp with USB Port (benchmark sample 412),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000413,Insulated Stainless Water Bottle (benchmark sample 413),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000414,Mechanical Keyboard - Tactile Switches (benchmark sample 414),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000415,Memory Foam Pillow (benchmark sample 415),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000416,Canvas Everyday Backpack (benchmark sample 416),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000417,Resistance Band Set (benchmark sample 417),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000418,USB-C to HDMI Adapter (benchmark sample 418),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000419,Chef Knife 20 cm (benchmark sample 419),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000420,Blue-Light Reading Glasses (benchmark sample 420),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000421,Noise-Cancelling Wireless Headphones (benchmark sample 421),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000422,Stainless Steel Travel Mug (benchmark sample 422),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000423,USB-C 65W Laptop Charger (benchmark sample 423),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000424,Everyday Running Shoes (benchmark sample 424),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000425,Organic Cotton Crew T-Shirt (benchmark sample 425),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000426,Adjustable Laptop Stand (benchmark sample 426),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000427,LED Desk Lamp with USB Port (benchmark sample 427),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000428,Insulated Stainless Water Bottle (benchmark sample 428),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000429,Mechanical Keyboard - Tactile Switches (benchmark sample 429),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000430,Memory Foam Pillow (benchmark sample 430),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000431,Canvas Everyday Backpack (benchmark sample 431),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000432,Resistance Band Set (benchmark sample 432),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000433,USB-C to HDMI Adapter (benchmark sample 433),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000434,Chef Knife 20 cm (benchmark sample 434),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000435,Blue-Light Reading Glasses (benchmark sample 435),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000436,Noise-Cancelling Wireless Headphones (benchmark sample 436),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000437,Stainless Steel Travel Mug (benchmark sample 437),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000438,USB-C 65W Laptop Charger (benchmark sample 438),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000439,Everyday Running Shoes (benchmark sample 439),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000440,Organic Cotton Crew T-Shirt (benchmark sample 440),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000441,Adjustable Laptop Stand (benchmark sample 441),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000442,LED Desk Lamp with USB Port (benchmark sample 442),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000443,Insulated Stainless Water Bottle (benchmark sample 443),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000444,Mechanical Keyboard - Tactile Switches (benchmark sample 444),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000445,Memory Foam Pillow (benchmark sample 445),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000446,Canvas Everyday Backpack (benchmark sample 446),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000447,Resistance Band Set (benchmark sample 447),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000448,USB-C to HDMI Adapter (benchmark sample 448),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000449,Chef Knife 20 cm (benchmark sample 449),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000450,Blue-Light Reading Glasses (benchmark sample 450),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000451,Noise-Cancelling Wireless Headphones (benchmark sample 451),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000452,Stainless Steel Travel Mug (benchmark sample 452),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000453,USB-C 65W Laptop Charger (benchmark sample 453),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000454,Everyday Running Shoes (benchmark sample 454),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000455,Organic Cotton Crew T-Shirt (benchmark sample 455),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000456,Adjustable Laptop Stand (benchmark sample 456),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000457,LED Desk Lamp with USB Port (benchmark sample 457),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000458,Insulated Stainless Water Bottle (benchmark sample 458),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000459,Mechanical Keyboard - Tactile Switches (benchmark sample 459),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000460,Memory Foam Pillow (benchmark sample 460),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000461,Canvas Everyday Backpack (benchmark sample 461),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000462,Resistance Band Set (benchmark sample 462),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000463,USB-C to HDMI Adapter (benchmark sample 463),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000464,Chef Knife 20 cm (benchmark sample 464),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000465,Blue-Light Reading Glasses (benchmark sample 465),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000466,Noise-Cancelling Wireless Headphones (benchmark sample 466),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000467,Stainless Steel Travel Mug (benchmark sample 467),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000468,USB-C 65W Laptop Charger (benchmark sample 468),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000469,Everyday Running Shoes (benchmark sample 469),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000470,Organic Cotton Crew T-Shirt (benchmark sample 470),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000471,Adjustable Laptop Stand (benchmark sample 471),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000472,LED Desk Lamp with USB Port (benchmark sample 472),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000473,Insulated Stainless Water Bottle (benchmark sample 473),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000474,Mechanical Keyboard - Tactile Switches (benchmark sample 474),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000475,Memory Foam Pillow (benchmark sample 475),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000476,Canvas Everyday Backpack (benchmark sample 476),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000477,Resistance Band Set (benchmark sample 477),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000478,USB-C to HDMI Adapter (benchmark sample 478),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000479,Chef Knife 20 cm (benchmark sample 479),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000480,Blue-Light Reading Glasses (benchmark sample 480),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000481,Noise-Cancelling Wireless Headphones (benchmark sample 481),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000482,Stainless Steel Travel Mug (benchmark sample 482),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000483,USB-C 65W Laptop Charger (benchmark sample 483),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000484,Everyday Running Shoes (benchmark sample 484),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000485,Organic Cotton Crew T-Shirt (benchmark sample 485),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000486,Adjustable Laptop Stand (benchmark sample 486),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000487,LED Desk Lamp with USB Port (benchmark sample 487),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000488,Insulated Stainless Water Bottle (benchmark sample 488),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000489,Mechanical Keyboard - Tactile Switches (benchmark sample 489),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000490,Memory Foam Pillow (benchmark sample 490),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000491,Canvas Everyday Backpack (benchmark sample 491),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000492,Resistance Band Set (benchmark sample 492),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000493,USB-C to HDMI Adapter (benchmark sample 493),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000494,Chef Knife 20 cm (benchmark sample 494),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000495,Blue-Light Reading Glasses (benchmark sample 495),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000496,Noise-Cancelling Wireless Headphones (benchmark sample 496),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000497,Stainless Steel Travel Mug (benchmark sample 497),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000498,USB-C 65W Laptop Charger (benchmark sample 498),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000499,Everyday Running Shoes (benchmark sample 499),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000500,Organic Cotton Crew T-Shirt (benchmark sample 500),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000501,Adjustable Laptop Stand (benchmark sample 501),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000502,LED Desk Lamp with USB Port (benchmark sample 502),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000503,Insulated Stainless Water Bottle (benchmark sample 503),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000504,Mechanical Keyboard - Tactile Switches (benchmark sample 504),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000505,Memory Foam Pillow (benchmark sample 505),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000506,Canvas Everyday Backpack (benchmark sample 506),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000507,Resistance Band Set (benchmark sample 507),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000508,USB-C to HDMI Adapter (benchmark sample 508),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000509,Chef Knife 20 cm (benchmark sample 509),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000510,Blue-Light Reading Glasses (benchmark sample 510),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000511,Noise-Cancelling Wireless Headphones (benchmark sample 511),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000512,Stainless Steel Travel Mug (benchmark sample 512),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000513,USB-C 65W Laptop Charger (benchmark sample 513),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000514,Everyday Running Shoes (benchmark sample 514),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000515,Organic Cotton Crew T-Shirt (benchmark sample 515),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000516,Adjustable Laptop Stand (benchmark sample 516),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000517,LED Desk Lamp with USB Port (benchmark sample 517),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000518,Insulated Stainless Water Bottle (benchmark sample 518),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000519,Mechanical Keyboard - Tactile Switches (benchmark sample 519),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000520,Memory Foam Pillow (benchmark sample 520),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000521,Canvas Everyday Backpack (benchmark sample 521),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000522,Resistance Band Set (benchmark sample 522),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000523,USB-C to HDMI Adapter (benchmark sample 523),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000524,Chef Knife 20 cm (benchmark sample 524),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000525,Blue-Light Reading Glasses (benchmark sample 525),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000526,Noise-Cancelling Wireless Headphones (benchmark sample 526),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000527,Stainless Steel Travel Mug (benchmark sample 527),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000528,USB-C 65W Laptop Charger (benchmark sample 528),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000529,Everyday Running Shoes (benchmark sample 529),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000530,Organic Cotton Crew T-Shirt (benchmark sample 530),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000531,Adjustable Laptop Stand (benchmark sample 531),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000532,LED Desk Lamp with USB Port (benchmark sample 532),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000533,Insulated Stainless Water Bottle (benchmark sample 533),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000534,Mechanical Keyboard - Tactile Switches (benchmark sample 534),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000535,Memory Foam Pillow (benchmark sample 535),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000536,Canvas Everyday Backpack (benchmark sample 536),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000537,Resistance Band Set (benchmark sample 537),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000538,USB-C to HDMI Adapter (benchmark sample 538),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000539,Chef Knife 20 cm (benchmark sample 539),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000540,Blue-Light Reading Glasses (benchmark sample 540),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000541,Noise-Cancelling Wireless Headphones (benchmark sample 541),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000542,Stainless Steel Travel Mug (benchmark sample 542),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000543,USB-C 65W Laptop Charger (benchmark sample 543),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000544,Everyday Running Shoes (benchmark sample 544),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000545,Organic Cotton Crew T-Shirt (benchmark sample 545),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000546,Adjustable Laptop Stand (benchmark sample 546),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000547,LED Desk Lamp with USB Port (benchmark sample 547),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000548,Insulated Stainless Water Bottle (benchmark sample 548),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000549,Mechanical Keyboard - Tactile Switches (benchmark sample 549),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000550,Memory Foam Pillow (benchmark sample 550),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000551,Canvas Everyday Backpack (benchmark sample 551),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000552,Resistance Band Set (benchmark sample 552),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000553,USB-C to HDMI Adapter (benchmark sample 553),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000554,Chef Knife 20 cm (benchmark sample 554),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000555,Blue-Light Reading Glasses (benchmark sample 555),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000556,Noise-Cancelling Wireless Headphones (benchmark sample 556),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000557,Stainless Steel Travel Mug (benchmark sample 557),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000558,USB-C 65W Laptop Charger (benchmark sample 558),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000559,Everyday Running Shoes (benchmark sample 559),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000560,Organic Cotton Crew T-Shirt (benchmark sample 560),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000561,Adjustable Laptop Stand (benchmark sample 561),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000562,LED Desk Lamp with USB Port (benchmark sample 562),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000563,Insulated Stainless Water Bottle (benchmark sample 563),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000564,Mechanical Keyboard - Tactile Switches (benchmark sample 564),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000565,Memory Foam Pillow (benchmark sample 565),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000566,Canvas Everyday Backpack (benchmark sample 566),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000567,Resistance Band Set (benchmark sample 567),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000568,USB-C to HDMI Adapter (benchmark sample 568),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000569,Chef Knife 20 cm (benchmark sample 569),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000570,Blue-Light Reading Glasses (benchmark sample 570),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000571,Noise-Cancelling Wireless Headphones (benchmark sample 571),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000572,Stainless Steel Travel Mug (benchmark sample 572),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000573,USB-C 65W Laptop Charger (benchmark sample 573),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000574,Everyday Running Shoes (benchmark sample 574),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000575,Organic Cotton Crew T-Shirt (benchmark sample 575),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000576,Adjustable Laptop Stand (benchmark sample 576),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000577,LED Desk Lamp with USB Port (benchmark sample 577),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000578,Insulated Stainless Water Bottle (benchmark sample 578),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000579,Mechanical Keyboard - Tactile Switches (benchmark sample 579),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000580,Memory Foam Pillow (benchmark sample 580),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000581,Canvas Everyday Backpack (benchmark sample 581),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000582,Resistance Band Set (benchmark sample 582),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000583,USB-C to HDMI Adapter (benchmark sample 583),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000584,Chef Knife 20 cm (benchmark sample 584),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000585,Blue-Light Reading Glasses (benchmark sample 585),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000586,Noise-Cancelling Wireless Headphones (benchmark sample 586),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000587,Stainless Steel Travel Mug (benchmark sample 587),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000588,USB-C 65W Laptop Charger (benchmark sample 588),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000589,Everyday Running Shoes (benchmark sample 589),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000590,Organic Cotton Crew T-Shirt (benchmark sample 590),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000591,Adjustable Laptop Stand (benchmark sample 591),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000592,LED Desk Lamp with USB Port (benchmark sample 592),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000593,Insulated Stainless Water Bottle (benchmark sample 593),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000594,Mechanical Keyboard - Tactile Switches (benchmark sample 594),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000595,Memory Foam Pillow (benchmark sample 595),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000596,Canvas Everyday Backpack (benchmark sample 596),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000597,Resistance Band Set (benchmark sample 597),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000598,USB-C to HDMI Adapter (benchmark sample 598),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000599,Chef Knife 20 cm (benchmark sample 599),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000600,Blue-Light Reading Glasses (benchmark sample 600),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000601,Noise-Cancelling Wireless Headphones (benchmark sample 601),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000602,Stainless Steel Travel Mug (benchmark sample 602),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000603,USB-C 65W Laptop Charger (benchmark sample 603),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000604,Everyday Running Shoes (benchmark sample 604),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000605,Organic Cotton Crew T-Shirt (benchmark sample 605),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000606,Adjustable Laptop Stand (benchmark sample 606),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000607,LED Desk Lamp with USB Port (benchmark sample 607),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000608,Insulated Stainless Water Bottle (benchmark sample 608),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000609,Mechanical Keyboard - Tactile Switches (benchmark sample 609),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000610,Memory Foam Pillow (benchmark sample 610),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000611,Canvas Everyday Backpack (benchmark sample 611),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000612,Resistance Band Set (benchmark sample 612),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000613,USB-C to HDMI Adapter (benchmark sample 613),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000614,Chef Knife 20 cm (benchmark sample 614),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000615,Blue-Light Reading Glasses (benchmark sample 615),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000616,Noise-Cancelling Wireless Headphones (benchmark sample 616),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000617,Stainless Steel Travel Mug (benchmark sample 617),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000618,USB-C 65W Laptop Charger (benchmark sample 618),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000619,Everyday Running Shoes (benchmark sample 619),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000620,Organic Cotton Crew T-Shirt (benchmark sample 620),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000621,Adjustable Laptop Stand (benchmark sample 621),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000622,LED Desk Lamp with USB Port (benchmark sample 622),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000623,Insulated Stainless Water Bottle (benchmark sample 623),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000624,Mechanical Keyboard - Tactile Switches (benchmark sample 624),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000625,Memory Foam Pillow (benchmark sample 625),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000626,Canvas Everyday Backpack (benchmark sample 626),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000627,Resistance Band Set (benchmark sample 627),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000628,USB-C to HDMI Adapter (benchmark sample 628),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000629,Chef Knife 20 cm (benchmark sample 629),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000630,Blue-Light Reading Glasses (benchmark sample 630),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000631,Noise-Cancelling Wireless Headphones (benchmark sample 631),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000632,Stainless Steel Travel Mug (benchmark sample 632),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000633,USB-C 65W Laptop Charger (benchmark sample 633),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000634,Everyday Running Shoes (benchmark sample 634),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000635,Organic Cotton Crew T-Shirt (benchmark sample 635),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000636,Adjustable Laptop Stand (benchmark sample 636),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000637,LED Desk Lamp with USB Port (benchmark sample 637),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000638,Insulated Stainless Water Bottle (benchmark sample 638),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000639,Mechanical Keyboard - Tactile Switches (benchmark sample 639),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000640,Memory Foam Pillow (benchmark sample 640),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000641,Canvas Everyday Backpack (benchmark sample 641),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000642,Resistance Band Set (benchmark sample 642),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000643,USB-C to HDMI Adapter (benchmark sample 643),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000644,Chef Knife 20 cm (benchmark sample 644),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000645,Blue-Light Reading Glasses (benchmark sample 645),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000646,Noise-Cancelling Wireless Headphones (benchmark sample 646),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000647,Stainless Steel Travel Mug (benchmark sample 647),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000648,USB-C 65W Laptop Charger (benchmark sample 648),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000649,Everyday Running Shoes (benchmark sample 649),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000650,Organic Cotton Crew T-Shirt (benchmark sample 650),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000651,Adjustable Laptop Stand (benchmark sample 651),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000652,LED Desk Lamp with USB Port (benchmark sample 652),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000653,Insulated Stainless Water Bottle (benchmark sample 653),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000654,Mechanical Keyboard - Tactile Switches (benchmark sample 654),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000655,Memory Foam Pillow (benchmark sample 655),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000656,Canvas Everyday Backpack (benchmark sample 656),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000657,Resistance Band Set (benchmark sample 657),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000658,USB-C to HDMI Adapter (benchmark sample 658),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000659,Chef Knife 20 cm (benchmark sample 659),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000660,Blue-Light Reading Glasses (benchmark sample 660),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000661,Noise-Cancelling Wireless Headphones (benchmark sample 661),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000662,Stainless Steel Travel Mug (benchmark sample 662),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000663,USB-C 65W Laptop Charger (benchmark sample 663),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000664,Everyday Running Shoes (benchmark sample 664),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000665,Organic Cotton Crew T-Shirt (benchmark sample 665),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000666,Adjustable Laptop Stand (benchmark sample 666),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000667,LED Desk Lamp with USB Port (benchmark sample 667),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000668,Insulated Stainless Water Bottle (benchmark sample 668),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000669,Mechanical Keyboard - Tactile Switches (benchmark sample 669),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000670,Memory Foam Pillow (benchmark sample 670),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000671,Canvas Everyday Backpack (benchmark sample 671),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000672,Resistance Band Set (benchmark sample 672),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000673,USB-C to HDMI Adapter (benchmark sample 673),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000674,Chef Knife 20 cm (benchmark sample 674),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000675,Blue-Light Reading Glasses (benchmark sample 675),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000676,Noise-Cancelling Wireless Headphones (benchmark sample 676),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000677,Stainless Steel Travel Mug (benchmark sample 677),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000678,USB-C 65W Laptop Charger (benchmark sample 678),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000679,Everyday Running Shoes (benchmark sample 679),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000680,Organic Cotton Crew T-Shirt (benchmark sample 680),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000681,Adjustable Laptop Stand (benchmark sample 681),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000682,LED Desk Lamp with USB Port (benchmark sample 682),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000683,Insulated Stainless Water Bottle (benchmark sample 683),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000684,Mechanical Keyboard - Tactile Switches (benchmark sample 684),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000685,Memory Foam Pillow (benchmark sample 685),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000686,Canvas Everyday Backpack (benchmark sample 686),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000687,Resistance Band Set (benchmark sample 687),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000688,USB-C to HDMI Adapter (benchmark sample 688),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000689,Chef Knife 20 cm (benchmark sample 689),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000690,Blue-Light Reading Glasses (benchmark sample 690),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000691,Noise-Cancelling Wireless Headphones (benchmark sample 691),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000692,Stainless Steel Travel Mug (benchmark sample 692),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000693,USB-C 65W Laptop Charger (benchmark sample 693),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000694,Everyday Running Shoes (benchmark sample 694),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000695,Organic Cotton Crew T-Shirt (benchmark sample 695),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000696,Adjustable Laptop Stand (benchmark sample 696),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000697,LED Desk Lamp with USB Port (benchmark sample 697),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000698,Insulated Stainless Water Bottle (benchmark sample 698),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000699,Mechanical Keyboard - Tactile Switches (benchmark sample 699),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000700,Memory Foam Pillow (benchmark sample 700),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000701,Canvas Everyday Backpack (benchmark sample 701),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000702,Resistance Band Set (benchmark sample 702),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000703,USB-C to HDMI Adapter (benchmark sample 703),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000704,Chef Knife 20 cm (benchmark sample 704),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000705,Blue-Light Reading Glasses (benchmark sample 705),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000706,Noise-Cancelling Wireless Headphones (benchmark sample 706),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000707,Stainless Steel Travel Mug (benchmark sample 707),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000708,USB-C 65W Laptop Charger (benchmark sample 708),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000709,Everyday Running Shoes (benchmark sample 709),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000710,Organic Cotton Crew T-Shirt (benchmark sample 710),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000711,Adjustable Laptop Stand (benchmark sample 711),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000712,LED Desk Lamp with USB Port (benchmark sample 712),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000713,Insulated Stainless Water Bottle (benchmark sample 713),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000714,Mechanical Keyboard - Tactile Switches (benchmark sample 714),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000715,Memory Foam Pillow (benchmark sample 715),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000716,Canvas Everyday Backpack (benchmark sample 716),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000717,Resistance Band Set (benchmark sample 717),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000718,USB-C to HDMI Adapter (benchmark sample 718),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000719,Chef Knife 20 cm (benchmark sample 719),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000720,Blue-Light Reading Glasses (benchmark sample 720),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000721,Noise-Cancelling Wireless Headphones (benchmark sample 721),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000722,Stainless Steel Travel Mug (benchmark sample 722),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000723,USB-C 65W Laptop Charger (benchmark sample 723),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000724,Everyday Running Shoes (benchmark sample 724),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000725,Organic Cotton Crew T-Shirt (benchmark sample 725),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000726,Adjustable Laptop Stand (benchmark sample 726),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000727,LED Desk Lamp with USB Port (benchmark sample 727),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000728,Insulated Stainless Water Bottle (benchmark sample 728),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000729,Mechanical Keyboard - Tactile Switches (benchmark sample 729),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000730,Memory Foam Pillow (benchmark sample 730),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000731,Canvas Everyday Backpack (benchmark sample 731),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000732,Resistance Band Set (benchmark sample 732),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000733,USB-C to HDMI Adapter (benchmark sample 733),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000734,Chef Knife 20 cm (benchmark sample 734),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000735,Blue-Light Reading Glasses (benchmark sample 735),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000736,Noise-Cancelling Wireless Headphones (benchmark sample 736),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000737,Stainless Steel Travel Mug (benchmark sample 737),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000738,USB-C 65W Laptop Charger (benchmark sample 738),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000739,Everyday Running Shoes (benchmark sample 739),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000740,Organic Cotton Crew T-Shirt (benchmark sample 740),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000741,Adjustable Laptop Stand (benchmark sample 741),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000742,LED Desk Lamp with USB Port (benchmark sample 742),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000743,Insulated Stainless Water Bottle (benchmark sample 743),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000744,Mechanical Keyboard - Tactile Switches (benchmark sample 744),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000745,Memory Foam Pillow (benchmark sample 745),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000746,Canvas Everyday Backpack (benchmark sample 746),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000747,Resistance Band Set (benchmark sample 747),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000748,USB-C to HDMI Adapter (benchmark sample 748),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000749,Chef Knife 20 cm (benchmark sample 749),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000750,Blue-Light Reading Glasses (benchmark sample 750),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000751,Noise-Cancelling Wireless Headphones (benchmark sample 751),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000752,Stainless Steel Travel Mug (benchmark sample 752),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000753,USB-C 65W Laptop Charger (benchmark sample 753),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000754,Everyday Running Shoes (benchmark sample 754),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000755,Organic Cotton Crew T-Shirt (benchmark sample 755),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000756,Adjustable Laptop Stand (benchmark sample 756),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000757,LED Desk Lamp with USB Port (benchmark sample 757),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000758,Insulated Stainless Water Bottle (benchmark sample 758),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000759,Mechanical Keyboard - Tactile Switches (benchmark sample 759),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000760,Memory Foam Pillow (benchmark sample 760),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000761,Canvas Everyday Backpack (benchmark sample 761),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000762,Resistance Band Set (benchmark sample 762),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000763,USB-C to HDMI Adapter (benchmark sample 763),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000764,Chef Knife 20 cm (benchmark sample 764),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000765,Blue-Light Reading Glasses (benchmark sample 765),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000766,Noise-Cancelling Wireless Headphones (benchmark sample 766),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000767,Stainless Steel Travel Mug (benchmark sample 767),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000768,USB-C 65W Laptop Charger (benchmark sample 768),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000769,Everyday Running Shoes (benchmark sample 769),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000770,Organic Cotton Crew T-Shirt (benchmark sample 770),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000771,Adjustable Laptop Stand (benchmark sample 771),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000772,LED Desk Lamp with USB Port (benchmark sample 772),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000773,Insulated Stainless Water Bottle (benchmark sample 773),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000774,Mechanical Keyboard - Tactile Switches (benchmark sample 774),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000775,Memory Foam Pillow (benchmark sample 775),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000776,Canvas Everyday Backpack (benchmark sample 776),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000777,Resistance Band Set (benchmark sample 777),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000778,USB-C to HDMI Adapter (benchmark sample 778),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000779,Chef Knife 20 cm (benchmark sample 779),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000780,Blue-Light Reading Glasses (benchmark sample 780),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000781,Noise-Cancelling Wireless Headphones (benchmark sample 781),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000782,Stainless Steel Travel Mug (benchmark sample 782),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000783,USB-C 65W Laptop Charger (benchmark sample 783),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000784,Everyday Running Shoes (benchmark sample 784),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000785,Organic Cotton Crew T-Shirt (benchmark sample 785),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000786,Adjustable Laptop Stand (benchmark sample 786),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000787,LED Desk Lamp with USB Port (benchmark sample 787),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000788,Insulated Stainless Water Bottle (benchmark sample 788),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000789,Mechanical Keyboard - Tactile Switches (benchmark sample 789),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000790,Memory Foam Pillow (benchmark sample 790),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000791,Canvas Everyday Backpack (benchmark sample 791),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000792,Resistance Band Set (benchmark sample 792),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000793,USB-C to HDMI Adapter (benchmark sample 793),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000794,Chef Knife 20 cm (benchmark sample 794),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000795,Blue-Light Reading Glasses (benchmark sample 795),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000796,Noise-Cancelling Wireless Headphones (benchmark sample 796),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000797,Stainless Steel Travel Mug (benchmark sample 797),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000798,USB-C 65W Laptop Charger (benchmark sample 798),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000799,Everyday Running Shoes (benchmark sample 799),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000800,Organic Cotton Crew T-Shirt (benchmark sample 800),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000801,Adjustable Laptop Stand (benchmark sample 801),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000802,LED Desk Lamp with USB Port (benchmark sample 802),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000803,Insulated Stainless Water Bottle (benchmark sample 803),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000804,Mechanical Keyboard - Tactile Switches (benchmark sample 804),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000805,Memory Foam Pillow (benchmark sample 805),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000806,Canvas Everyday Backpack (benchmark sample 806),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000807,Resistance Band Set (benchmark sample 807),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000808,USB-C to HDMI Adapter (benchmark sample 808),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000809,Chef Knife 20 cm (benchmark sample 809),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000810,Blue-Light Reading Glasses (benchmark sample 810),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000811,Noise-Cancelling Wireless Headphones (benchmark sample 811),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000812,Stainless Steel Travel Mug (benchmark sample 812),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000813,USB-C 65W Laptop Charger (benchmark sample 813),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000814,Everyday Running Shoes (benchmark sample 814),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000815,Organic Cotton Crew T-Shirt (benchmark sample 815),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000816,Adjustable Laptop Stand (benchmark sample 816),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000817,LED Desk Lamp with USB Port (benchmark sample 817),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000818,Insulated Stainless Water Bottle (benchmark sample 818),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000819,Mechanical Keyboard - Tactile Switches (benchmark sample 819),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000820,Memory Foam Pillow (benchmark sample 820),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000821,Canvas Everyday Backpack (benchmark sample 821),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000822,Resistance Band Set (benchmark sample 822),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000823,USB-C to HDMI Adapter (benchmark sample 823),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000824,Chef Knife 20 cm (benchmark sample 824),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000825,Blue-Light Reading Glasses (benchmark sample 825),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000826,Noise-Cancelling Wireless Headphones (benchmark sample 826),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000827,Stainless Steel Travel Mug (benchmark sample 827),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000828,USB-C 65W Laptop Charger (benchmark sample 828),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000829,Everyday Running Shoes (benchmark sample 829),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000830,Organic Cotton Crew T-Shirt (benchmark sample 830),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000831,Adjustable Laptop Stand (benchmark sample 831),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000832,LED Desk Lamp with USB Port (benchmark sample 832),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000833,Insulated Stainless Water Bottle (benchmark sample 833),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000834,Mechanical Keyboard - Tactile Switches (benchmark sample 834),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000835,Memory Foam Pillow (benchmark sample 835),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000836,Canvas Everyday Backpack (benchmark sample 836),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000837,Resistance Band Set (benchmark sample 837),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000838,USB-C to HDMI Adapter (benchmark sample 838),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000839,Chef Knife 20 cm (benchmark sample 839),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000840,Blue-Light Reading Glasses (benchmark sample 840),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000841,Noise-Cancelling Wireless Headphones (benchmark sample 841),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000842,Stainless Steel Travel Mug (benchmark sample 842),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000843,USB-C 65W Laptop Charger (benchmark sample 843),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000844,Everyday Running Shoes (benchmark sample 844),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000845,Organic Cotton Crew T-Shirt (benchmark sample 845),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000846,Adjustable Laptop Stand (benchmark sample 846),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000847,LED Desk Lamp with USB Port (benchmark sample 847),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000848,Insulated Stainless Water Bottle (benchmark sample 848),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000849,Mechanical Keyboard - Tactile Switches (benchmark sample 849),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000850,Memory Foam Pillow (benchmark sample 850),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000851,Canvas Everyday Backpack (benchmark sample 851),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000852,Resistance Band Set (benchmark sample 852),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000853,USB-C to HDMI Adapter (benchmark sample 853),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000854,Chef Knife 20 cm (benchmark sample 854),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000855,Blue-Light Reading Glasses (benchmark sample 855),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000856,Noise-Cancelling Wireless Headphones (benchmark sample 856),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000857,Stainless Steel Travel Mug (benchmark sample 857),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000858,USB-C 65W Laptop Charger (benchmark sample 858),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000859,Everyday Running Shoes (benchmark sample 859),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000860,Organic Cotton Crew T-Shirt (benchmark sample 860),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000861,Adjustable Laptop Stand (benchmark sample 861),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000862,LED Desk Lamp with USB Port (benchmark sample 862),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000863,Insulated Stainless Water Bottle (benchmark sample 863),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000864,Mechanical Keyboard - Tactile Switches (benchmark sample 864),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000865,Memory Foam Pillow (benchmark sample 865),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000866,Canvas Everyday Backpack (benchmark sample 866),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000867,Resistance Band Set (benchmark sample 867),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000868,USB-C to HDMI Adapter (benchmark sample 868),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000869,Chef Knife 20 cm (benchmark sample 869),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000870,Blue-Light Reading Glasses (benchmark sample 870),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000871,Noise-Cancelling Wireless Headphones (benchmark sample 871),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000872,Stainless Steel Travel Mug (benchmark sample 872),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000873,USB-C 65W Laptop Charger (benchmark sample 873),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000874,Everyday Running Shoes (benchmark sample 874),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000875,Organic Cotton Crew T-Shirt (benchmark sample 875),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000876,Adjustable Laptop Stand (benchmark sample 876),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000877,LED Desk Lamp with USB Port (benchmark sample 877),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000878,Insulated Stainless Water Bottle (benchmark sample 878),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000879,Mechanical Keyboard - Tactile Switches (benchmark sample 879),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000880,Memory Foam Pillow (benchmark sample 880),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000881,Canvas Everyday Backpack (benchmark sample 881),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000882,Resistance Band Set (benchmark sample 882),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000883,USB-C to HDMI Adapter (benchmark sample 883),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000884,Chef Knife 20 cm (benchmark sample 884),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000885,Blue-Light Reading Glasses (benchmark sample 885),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000886,Noise-Cancelling Wireless Headphones (benchmark sample 886),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000887,Stainless Steel Travel Mug (benchmark sample 887),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000888,USB-C 65W Laptop Charger (benchmark sample 888),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000889,Everyday Running Shoes (benchmark sample 889),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000890,Organic Cotton Crew T-Shirt (benchmark sample 890),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000891,Adjustable Laptop Stand (benchmark sample 891),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000892,LED Desk Lamp with USB Port (benchmark sample 892),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000893,Insulated Stainless Water Bottle (benchmark sample 893),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000894,Mechanical Keyboard - Tactile Switches (benchmark sample 894),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000895,Memory Foam Pillow (benchmark sample 895),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000896,Canvas Everyday Backpack (benchmark sample 896),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000897,Resistance Band Set (benchmark sample 897),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000898,USB-C to HDMI Adapter (benchmark sample 898),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000899,Chef Knife 20 cm (benchmark sample 899),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000900,Blue-Light Reading Glasses (benchmark sample 900),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000901,Noise-Cancelling Wireless Headphones (benchmark sample 901),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000902,Stainless Steel Travel Mug (benchmark sample 902),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000903,USB-C 65W Laptop Charger (benchmark sample 903),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000904,Everyday Running Shoes (benchmark sample 904),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000905,Organic Cotton Crew T-Shirt (benchmark sample 905),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000906,Adjustable Laptop Stand (benchmark sample 906),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000907,LED Desk Lamp with USB Port (benchmark sample 907),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000908,Insulated Stainless Water Bottle (benchmark sample 908),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000909,Mechanical Keyboard - Tactile Switches (benchmark sample 909),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000910,Memory Foam Pillow (benchmark sample 910),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000911,Canvas Everyday Backpack (benchmark sample 911),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000912,Resistance Band Set (benchmark sample 912),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000913,USB-C to HDMI Adapter (benchmark sample 913),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000914,Chef Knife 20 cm (benchmark sample 914),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000915,Blue-Light Reading Glasses (benchmark sample 915),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000916,Noise-Cancelling Wireless Headphones (benchmark sample 916),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000917,Stainless Steel Travel Mug (benchmark sample 917),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000918,USB-C 65W Laptop Charger (benchmark sample 918),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000919,Everyday Running Shoes (benchmark sample 919),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000920,Organic Cotton Crew T-Shirt (benchmark sample 920),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000921,Adjustable Laptop Stand (benchmark sample 921),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000922,LED Desk Lamp with USB Port (benchmark sample 922),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000923,Insulated Stainless Water Bottle (benchmark sample 923),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000924,Mechanical Keyboard - Tactile Switches (benchmark sample 924),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000925,Memory Foam Pillow (benchmark sample 925),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000926,Canvas Everyday Backpack (benchmark sample 926),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000927,Resistance Band Set (benchmark sample 927),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000928,USB-C to HDMI Adapter (benchmark sample 928),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000929,Chef Knife 20 cm (benchmark sample 929),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000930,Blue-Light Reading Glasses (benchmark sample 930),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000931,Noise-Cancelling Wireless Headphones (benchmark sample 931),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000932,Stainless Steel Travel Mug (benchmark sample 932),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000933,USB-C 65W Laptop Charger (benchmark sample 933),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000934,Everyday Running Shoes (benchmark sample 934),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000935,Organic Cotton Crew T-Shirt (benchmark sample 935),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000936,Adjustable Laptop Stand (benchmark sample 936),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000937,LED Desk Lamp with USB Port (benchmark sample 937),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000938,Insulated Stainless Water Bottle (benchmark sample 938),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000939,Mechanical Keyboard - Tactile Switches (benchmark sample 939),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000940,Memory Foam Pillow (benchmark sample 940),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000941,Canvas Everyday Backpack (benchmark sample 941),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000942,Resistance Band Set (benchmark sample 942),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000943,USB-C to HDMI Adapter (benchmark sample 943),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000944,Chef Knife 20 cm (benchmark sample 944),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000945,Blue-Light Reading Glasses (benchmark sample 945),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000946,Noise-Cancelling Wireless Headphones (benchmark sample 946),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000947,Stainless Steel Travel Mug (benchmark sample 947),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000948,USB-C 65W Laptop Charger (benchmark sample 948),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000949,Everyday Running Shoes (benchmark sample 949),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000950,Organic Cotton Crew T-Shirt (benchmark sample 950),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000951,Adjustable Laptop Stand (benchmark sample 951),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000952,LED Desk Lamp with USB Port (benchmark sample 952),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000953,Insulated Stainless Water Bottle (benchmark sample 953),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000954,Mechanical Keyboard - Tactile Switches (benchmark sample 954),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000955,Memory Foam Pillow (benchmark sample 955),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000956,Canvas Everyday Backpack (benchmark sample 956),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000957,Resistance Band Set (benchmark sample 957),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000958,USB-C to HDMI Adapter (benchmark sample 958),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000959,Chef Knife 20 cm (benchmark sample 959),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000960,Blue-Light Reading Glasses (benchmark sample 960),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000961,Noise-Cancelling Wireless Headphones (benchmark sample 961),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000962,Stainless Steel Travel Mug (benchmark sample 962),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000963,USB-C 65W Laptop Charger (benchmark sample 963),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000964,Everyday Running Shoes (benchmark sample 964),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000965,Organic Cotton Crew T-Shirt (benchmark sample 965),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000966,Adjustable Laptop Stand (benchmark sample 966),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000967,LED Desk Lamp with USB Port (benchmark sample 967),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000968,Insulated Stainless Water Bottle (benchmark sample 968),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000969,Mechanical Keyboard - Tactile Switches (benchmark sample 969),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000970,Memory Foam Pillow (benchmark sample 970),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000971,Canvas Everyday Backpack (benchmark sample 971),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000972,Resistance Band Set (benchmark sample 972),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000973,USB-C to HDMI Adapter (benchmark sample 973),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000974,Chef Knife 20 cm (benchmark sample 974),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000975,Blue-Light Reading Glasses (benchmark sample 975),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000976,Noise-Cancelling Wireless Headphones (benchmark sample 976),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000977,Stainless Steel Travel Mug (benchmark sample 977),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000978,USB-C 65W Laptop Charger (benchmark sample 978),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000979,Everyday Running Shoes (benchmark sample 979),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000980,Organic Cotton Crew T-Shirt (benchmark sample 980),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000981,Adjustable Laptop Stand (benchmark sample 981),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000982,LED Desk Lamp with USB Port (benchmark sample 982),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000983,Insulated Stainless Water Bottle (benchmark sample 983),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000984,Mechanical Keyboard - Tactile Switches (benchmark sample 984),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-000985,Memory Foam Pillow (benchmark sample 985),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1
+M1-000986,Canvas Everyday Backpack (benchmark sample 986),18-liter water-resistant backpack with padded laptop sleeve and two side pockets.,Bags & Luggage,58.0,39,1.5
+M1-000987,Resistance Band Set (benchmark sample 987),Five latex exercise bands with different resistance levels and a storage pouch.,Sports & Outdoors,19.99,140,1.0
+M1-000988,USB-C to HDMI Adapter (benchmark sample 988),Portable adapter supporting 4K video output from compatible USB-C devices.,Electronics,21.95,0,1.2
+M1-000989,Chef Knife 20 cm (benchmark sample 989),Full-tang stainless steel chef knife with an ergonomic handle and protective sheath.,Home & Kitchen,49.99,23,1.0
+M1-000990,Blue-Light Reading Glasses (benchmark sample 990),Lightweight rectangular frames with clear lenses for everyday screen use.,Accessories,27.5,47,1.0
+M1-000991,Noise-Cancelling Wireless Headphones (benchmark sample 991),Over-ear Bluetooth headphones with adaptive noise cancellation and 30-hour battery life.,Electronics,129.99,42,1.0
+M1-000992,Stainless Steel Travel Mug (benchmark sample 992),Insulated 470 ml travel mug with a leak-resistant lid and non-slip base.,Home & Kitchen,24.5,118,1.2
+M1-000993,USB-C 65W Laptop Charger (benchmark sample 993),Compact GaN wall charger with one USB-C port and foldable prongs.,Electronics,39.95,76,1.0
+M1-000994,Everyday Running Shoes (benchmark sample 994),Breathable mesh running shoes with cushioned midsoles for daily training.,Sports & Outdoors,74.0,31,2.1
+M1-000995,Organic Cotton Crew T-Shirt (benchmark sample 995),Midweight crew-neck t-shirt made from 100 percent organic cotton.,Clothing,22.0,205,1.3
+M1-000996,Adjustable Laptop Stand (benchmark sample 996),Aluminum desk stand with six height settings and silicone anti-slip pads.,Office Supplies,32.99,64,1.1
+M1-000997,LED Desk Lamp with USB Port (benchmark sample 997),"Dimmable LED lamp with touch controls, adjustable arm, and USB-A charging port.",Home & Kitchen,45.0,27,1.0
+M1-000998,Insulated Stainless Water Bottle (benchmark sample 998),Reusable 750 ml bottle with double-wall insulation and a screw-top lid.,Sports & Outdoors,28.75,93,1.4
+M1-000999,Mechanical Keyboard - Tactile Switches (benchmark sample 999),"Tenkeyless USB keyboard with tactile switches, white backlighting, and detachable cable.",Electronics,89.0,18,2.0
+M1-001000,Memory Foam Pillow (benchmark sample 1000),"Supportive standard-size pillow with a removable, machine-washable cover.",Home & Kitchen,36.5,52,1.1

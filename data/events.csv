@@ -1,0 +1,121 @@
+event_id,timestamp,anonymous_user_id,event_type,product_id,query
+E0001,2026-06-01T09:00,anon-01,search,,lightweight laptop for programming
+E0002,2026-06-01T09:37,anon-02,view,P1004,
+E0003,2026-06-01T10:14,anon-03,view,P1007,
+E0004,2026-06-01T10:51,anon-04,purchase,P1010,
+E0005,2026-06-01T11:28,anon-05,view,P1013,
+E0006,2026-06-01T12:05,anon-06,search,,lightweight laptop for programming
+E0007,2026-06-01T12:42,anon-07,view,P1004,
+E0008,2026-06-01T13:19,anon-08,purchase,P1007,
+E0009,2026-06-01T13:56,anon-01,view,P1010,
+E0010,2026-06-01T14:33,anon-02,view,P1013,
+E0011,2026-06-01T15:10,anon-03,search,,lightweight laptop for programming
+E0012,2026-06-01T15:47,anon-04,purchase,P1004,
+E0013,2026-06-02T09:00,anon-03,search,,wireless headphones
+E0014,2026-06-02T09:37,anon-04,view,P1011,
+E0015,2026-06-02T10:14,anon-05,view,P1014,
+E0016,2026-06-02T10:51,anon-06,purchase,P1002,
+E0017,2026-06-02T11:28,anon-07,view,P1005,
+E0018,2026-06-02T12:05,anon-08,search,,wireless headphones
+E0019,2026-06-02T12:42,anon-01,view,P1011,
+E0020,2026-06-02T13:19,anon-02,purchase,P1014,
+E0021,2026-06-02T13:56,anon-03,view,P1002,
+E0022,2026-06-02T14:33,anon-04,view,P1005,
+E0023,2026-06-02T15:10,anon-05,search,,wireless headphones
+E0024,2026-06-02T15:47,anon-06,purchase,P1011,
+E0025,2026-06-03T09:00,anon-05,search,,USB-C charger
+E0026,2026-06-03T09:37,anon-06,view,P1003,
+E0027,2026-06-03T10:14,anon-07,view,P1006,
+E0028,2026-06-03T10:51,anon-08,purchase,P1009,
+E0029,2026-06-03T11:28,anon-01,view,P1012,
+E0030,2026-06-03T12:05,anon-02,search,,USB-C charger
+E0031,2026-06-03T12:42,anon-03,view,P1003,
+E0032,2026-06-03T13:19,anon-04,purchase,P1006,
+E0033,2026-06-03T13:56,anon-05,view,P1009,
+E0034,2026-06-03T14:33,anon-06,view,P1012,
+E0035,2026-06-03T15:10,anon-07,search,,USB-C charger
+E0036,2026-06-03T15:47,anon-08,purchase,P1003,
+E0037,2026-06-04T09:00,anon-07,search,,running shoes
+E0038,2026-06-04T09:37,anon-08,view,P1010,
+E0039,2026-06-04T10:14,anon-01,view,P1013,
+E0040,2026-06-04T10:51,anon-02,purchase,P1001,
+E0041,2026-06-04T11:28,anon-03,view,P1004,
+E0042,2026-06-04T12:05,anon-04,search,,running shoes
+E0043,2026-06-04T12:42,anon-05,view,P1010,
+E0044,2026-06-04T13:19,anon-06,purchase,P1013,
+E0045,2026-06-04T13:56,anon-07,view,P1001,
+E0046,2026-06-04T14:33,anon-08,view,P1004,
+E0047,2026-06-04T15:10,anon-01,search,,running shoes
+E0048,2026-06-04T15:47,anon-02,purchase,P1010,
+E0049,2026-06-05T09:00,anon-01,search,,travel mug
+E0050,2026-06-05T09:37,anon-02,view,P1002,
+E0051,2026-06-05T10:14,anon-03,view,P1005,
+E0052,2026-06-05T10:51,anon-04,purchase,P1008,
+E0053,2026-06-05T11:28,anon-05,view,P1011,
+E0054,2026-06-05T12:05,anon-06,search,,travel mug
+E0055,2026-06-05T12:42,anon-07,view,P1002,
+E0056,2026-06-05T13:19,anon-08,purchase,P1005,
+E0057,2026-06-05T13:56,anon-01,view,P1008,
+E0058,2026-06-05T14:33,anon-02,view,P1011,
+E0059,2026-06-05T15:10,anon-03,search,,travel mug
+E0060,2026-06-05T15:47,anon-04,purchase,P1002,
+E0061,2026-06-06T09:00,anon-03,search,,lightweight laptop for programming
+E0062,2026-06-06T09:37,anon-04,view,P1009,
+E0063,2026-06-06T10:14,anon-05,view,P1012,
+E0064,2026-06-06T10:51,anon-06,purchase,P1015,
+E0065,2026-06-06T11:28,anon-07,view,P1003,
+E0066,2026-06-06T12:05,anon-08,search,,lightweight laptop for programming
+E0067,2026-06-06T12:42,anon-01,view,P1009,
+E0068,2026-06-06T13:19,anon-02,purchase,P1012,
+E0069,2026-06-06T13:56,anon-03,view,P1015,
+E0070,2026-06-06T14:33,anon-04,view,P1003,
+E0071,2026-06-06T15:10,anon-05,search,,lightweight laptop for programming
+E0072,2026-06-06T15:47,anon-06,purchase,P1009,
+E0073,2026-06-07T09:00,anon-05,search,,wireless headphones
+E0074,2026-06-07T09:37,anon-06,view,P1001,
+E0075,2026-06-07T10:14,anon-07,view,P1004,
+E0076,2026-06-07T10:51,anon-08,purchase,P1007,
+E0077,2026-06-07T11:28,anon-01,view,P1010,
+E0078,2026-06-07T12:05,anon-02,search,,wireless headphones
+E0079,2026-06-07T12:42,anon-03,view,P1001,
+E0080,2026-06-07T13:19,anon-04,purchase,P1004,
+E0081,2026-06-07T13:56,anon-05,view,P1007,
+E0082,2026-06-07T14:33,anon-06,view,P1010,
+E0083,2026-06-07T15:10,anon-07,search,,wireless headphones
+E0084,2026-06-07T15:47,anon-08,purchase,P1001,
+E0085,2026-06-08T09:00,anon-07,search,,USB-C charger
+E0086,2026-06-08T09:37,anon-08,view,P1008,
+E0087,2026-06-08T10:14,anon-01,view,P1011,
+E0088,2026-06-08T10:51,anon-02,purchase,P1014,
+E0089,2026-06-08T11:28,anon-03,view,P1002,
+E0090,2026-06-08T12:05,anon-04,search,,USB-C charger
+E0091,2026-06-08T12:42,anon-05,view,P1008,
+E0092,2026-06-08T13:19,anon-06,purchase,P1011,
+E0093,2026-06-08T13:56,anon-07,view,P1014,
+E0094,2026-06-08T14:33,anon-08,view,P1002,
+E0095,2026-06-08T15:10,anon-01,search,,USB-C charger
+E0096,2026-06-08T15:47,anon-02,purchase,P1008,
+E0097,2026-06-09T09:00,anon-01,search,,running shoes
+E0098,2026-06-09T09:37,anon-02,view,P1015,
+E0099,2026-06-09T10:14,anon-03,view,P1003,
+E0100,2026-06-09T10:51,anon-04,purchase,P1006,
+E0101,2026-06-09T11:28,anon-05,view,P1009,
+E0102,2026-06-09T12:05,anon-06,search,,running shoes
+E0103,2026-06-09T12:42,anon-07,view,P1015,
+E0104,2026-06-09T13:19,anon-08,purchase,P1003,
+E0105,2026-06-09T13:56,anon-01,view,P1006,
+E0106,2026-06-09T14:33,anon-02,view,P1009,
+E0107,2026-06-09T15:10,anon-03,search,,running shoes
+E0108,2026-06-09T15:47,anon-04,purchase,P1015,
+E0109,2026-06-10T09:00,anon-03,search,,travel mug
+E0110,2026-06-10T09:37,anon-04,view,P1007,
+E0111,2026-06-10T10:14,anon-05,view,P1010,
+E0112,2026-06-10T10:51,anon-06,purchase,P1013,
+E0113,2026-06-10T11:28,anon-07,view,P1001,
+E0114,2026-06-10T12:05,anon-08,search,,travel mug
+E0115,2026-06-10T12:42,anon-01,view,P1007,
+E0116,2026-06-10T13:19,anon-02,purchase,P1010,
+E0117,2026-06-10T13:56,anon-03,view,P1013,
+E0118,2026-06-10T14:33,anon-04,view,P1001,
+E0119,2026-06-10T15:10,anon-05,search,,travel mug
+E0120,2026-06-10T15:47,anon-06,purchase,P1007,

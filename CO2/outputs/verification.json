@@ -1,0 +1,61 @@
+{
+  "run_date": "2026-11-24",
+  "command": "python -B -m pytest -q -p no:cacheprovider",
+  "passed": 88,
+  "failed": 0,
+  "skipped": 0,
+  "duration_seconds": 2.66,
+  "python_version": "3.14.7",
+  "pytest": {
+    "command": "python -B -m pytest -q -p no:cacheprovider",
+    "passed": 88,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 2.66
+  },
+  "cart_tests": {
+    "command": "node --test tests/cart-core.test.cjs",
+    "passed": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "javascript_syntax_checks": {
+    "files": [
+      "dashboard/app.js",
+      "dashboard/admin.js",
+      "storefront/assets/app.js",
+      "storefront/assets/cart-core.js"
+    ],
+    "passed": true
+  },
+  "python_syntax_check": {
+    "command": "in-memory compile using UTF-8-SIG source decoding",
+    "files": 31,
+    "passed": true
+  },
+  "m2_benchmarks": {
+    "command": "python -B benchmarks/benchmark_m2.py --trials 5",
+    "rows": 17,
+    "correct_rows": 17,
+    "failed_rows": 0
+  },
+  "session_acceptance": {
+    "7": true,
+    "8": true,
+    "9": true,
+    "10": true,
+    "11": true,
+    "12": true
+  },
+  "dashboard_health_http_status": 200,
+  "browser_e2e": {
+    "command": "python scripts/run_e2e.py",
+    "browser": "Playwright Chromium",
+    "passed_checks": 10,
+    "failed_checks": 0,
+    "catalogue_photos_decoded": 32,
+    "browser_console_errors": 0,
+    "failed_requests": 0
+  },
+  "result": "OK"
+}

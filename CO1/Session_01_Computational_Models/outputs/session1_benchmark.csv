@@ -1,0 +1,4 @@
+product_count,records_inspected,median_time_ms,matching_products,trials,block_size,simulated_block_reads,category,max_price,min_stock
+20,20,0.002100,3,9,64,1,Electronics,100.0,1
+100,100,0.008700,14,9,64,2,Electronics,100.0,1
+1000,1000,0.090000,134,9,64,16,Electronics,100.0,1

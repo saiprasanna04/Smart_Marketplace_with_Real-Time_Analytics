@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#081321" />
+    <meta name="description" content="Shop useful finds across electronics, home, sport and more with Smart Cart." />
+    <title>Smart Cart · Discover better everyday finds</title>
+    <link rel="stylesheet" href="/storefront/assets/app.css" />
+    <script src="/storefront/assets/cart-core.js" defer></script>
+    <script src="/storefront/assets/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/" data-nav aria-label="Smart Cart home">
+          <span class="brand-symbol" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M6 9h3l2.2 12.2h12.4l2.5-8.4H10"/><circle cx="14" cy="25.5" r="1.5"/><circle cx="22" cy="25.5" r="1.5"/><path d="M15 5.5v8m-4-4h8"/></svg></span>
+          <span class="brand-name">smart<span>cart</span><small>Thoughtful finds. Easy days.</small></span>
+        </a>
+        <button class="mobile-nav-toggle" id="mobile-nav-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+        <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+          <a href="/" data-nav>Home</a>
+          <a href="/categories" data-nav>Categories</a>
+          <a href="/products" data-nav>Products</a>
+          <a href="/deals" data-nav>Deals</a>
+          <a href="/orders" data-nav>Orders</a>
+        </nav>
+        <form class="header-search" id="header-search" role="search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m15.5 15.5 4.2 4.2"/></svg>
+          <input name="query" id="header-query" type="search" placeholder="Search laptops, electronics and more..." autocomplete="off" />
+          <button type="submit" aria-label="Search products">Search</button>
+        </form>
+        <a class="cart-link" href="/cart" data-nav aria-label="Shopping cart">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2.1 11.1h11.8L21 8H6"/><circle cx="9" cy="19.5" r="1.4"/><circle cx="18" cy="19.5" r="1.4"/></svg>
+          <span class="cart-link-label">Cart</span><span class="cart-count" id="cart-count">0</span>
+        </a>
+        <a class="wishlist-link" href="/wishlist" data-nav aria-label="Wishlist">♡<span id="wishlist-count">0</span></a>
+      </div>
+      <div class="mobile-search-wrap"><form class="header-search mobile-search" id="mobile-search" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m15.5 15.5 4.2 4.2"/></svg><input name="query" type="search" placeholder="Search laptops, electronics and more..." /><button type="submit" aria-label="Search">⌕</button></form></div>
+    </header>
+
+    <main id="storefront-view" class="storefront-main" tabindex="-1">
+      <div class="loading"><span class="loader"></span><p>Finding something good…</p></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-top"><a class="brand footer-brand" href="/" data-nav><span class="brand-symbol" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M6 9h3l2.2 12.2h12.4l2.5-8.4H10"/><circle cx="14" cy="25.5" r="1.5"/><circle cx="22" cy="25.5" r="1.5"/><path d="M15 5.5v8m-4-4h8"/></svg></span><span class="brand-name">smart<span>cart</span><small>Thoughtful finds. Easy days.</small></span></a><p>Good things for everyday living.</p><div class="footer-links"><a href="/categories" data-nav>Categories</a><a href="/products" data-nav>Browse products</a><a href="/deals" data-nav>Deals</a><a href="/orders" data-nav>Orders</a><a href="/cart" data-nav>Your cart</a><a href="/wishlist" data-nav>Wishlist</a><a href="/admin">Catalogue admin</a><a href="/workspace">AEDS workspace</a></div></div>
+      <div class="footer-bottom"><span>© Smart Cart</span><span>Secure local demo · No payments are processed</span></div>
+    </footer>
+    <div class="toast" id="store-toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

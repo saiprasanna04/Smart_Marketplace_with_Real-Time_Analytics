@@ -1,0 +1,9 @@
+data_size,version,median_execution_time_ms,index_build_median_ms,correctness,trial_count,matching_products,records_inspected
+20,baseline_linear_scan,0.002300,0.000000,True,31,3,20
+20,category_hash_index,0.001500,0.003900,True,31,3,6
+100,baseline_linear_scan,0.009500,0.000000,True,31,14,100
+100,category_hash_index,0.005400,0.013700,True,31,14,27
+1000,baseline_linear_scan,0.095500,0.000000,True,31,134,1000
+1000,category_hash_index,0.049500,0.125600,True,31,134,267
+10000,baseline_linear_scan,1.022000,0.000000,True,31,1334,10000
+10000,category_hash_index,0.589600,1.305600,True,31,1334,2667

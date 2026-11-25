@@ -1,0 +1,7 @@
+data_size,representation,median_execution_time_ms,correctness,trial_count,matching_products,records_inspected
+20,indirect_dict,0.002100,True,31,3,20
+20,contiguous_columns,0.002200,True,31,3,20
+100,indirect_dict,0.009100,True,31,14,100
+100,contiguous_columns,0.008700,True,31,14,100
+1000,indirect_dict,0.093400,True,31,134,1000
+1000,contiguous_columns,0.121300,True,31,134,1000

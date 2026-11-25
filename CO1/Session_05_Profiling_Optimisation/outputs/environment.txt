@@ -1,0 +1,6 @@
+Python: 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+Implementation: CPython
+Operating system: Windows-11-10.0.26200-SP0
+Machine: AMD64
+Processor: Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+Profiling: cProfile and pstats; benchmark timing: time.perf_counter_ns

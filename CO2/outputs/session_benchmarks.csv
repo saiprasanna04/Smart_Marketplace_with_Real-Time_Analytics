@@ -1,0 +1,18 @@
+session,algorithm,baseline,input_size,query_count,trials,median_time_ms,operations,memory_estimate_bytes,correctness,notes
+7,FenwickTree,naive point-update/range-sum array,2048,160,5,4.356900,2939,58713,true,Python counter counts Fenwick internal-node reads/writes; range convention is half-open.
+7,Naive array,direct baseline,2048,160,5,6.846300,105987,27248,true,Counts each updated element and each array element read by range sums.
+7,LazySegmentTree,naive range-add/range-sum array,2048,160,5,9.743700,7001,174694,true,Counts recursive segment-tree node visits; update/query workload is deterministic.
+7,Naive range array,direct baseline,2048,160,5,8.847800,167174,30244,true,Counts each item changed by an update and each item read by a sum.
+8,AVL path-copy snapshots,copy-on-write full dictionary snapshots,500,24,5,6.418700,191,239538,true,Operation count is the implementation's new immutable tree nodes across updates.
+8,Copy-on-write snapshots,full snapshot baseline,500,24,5,6.699100,12000,500054,true,Operation count is dictionary entries copied for each version; Python object sizes share unchanged row objects.
+9,Suffix array + Kasai LCP,direct substring scans,3771,5,5,30.981800,99394,273972,true,"Measured build and exact queries; operation count includes rank-key evaluations, rank comparisons, LCP character comparisons, and query comparisons."
+9,Direct substring scan,simple baseline,3771,5,5,2.451200,19416,5753,true,Counts character comparisons over all description positions; baseline comparison count 19416.
+10,Per-document suffix automata,direct substring scans,3771,5,5,43.808400,12273,2242154,true,Counts transition-existence checks during construction and transition checks during queries; direct scans are the oracle.
+10,Direct substring scan,simple baseline,3771,5,5,2.348500,19416,5753,true,Counts character comparisons over all description positions; baseline comparison count 19416.
+11,Heavy-light decomposition,naive BFS path traversal,240,180,5,3.036100,7403,119715,true,Timer includes static decomposition and queries; operations count chain ranges and Fenwick internal accesses.
+11,Link-cut forest,naive BFS path traversal,240,180,5,9.401200,7436,64968,true,Timer includes linking the initial forest and queries; counts splay rotations and access calls.
+11,Naive BFS path traversal,simple baseline,240,180,5,7.316800,21971,91444,true,Counts queue nodes visited across each path search; adjacency and values are the same inputs.
+12,Mo range-distinct,naive per-range set,2200,220,5,13.607700,42765,10618,true,Counts left/right window movements over the fixed local product-view ID array.
+12,Naive range-distinct,simple baseline,2200,220,5,2.533500,126856,20992,true,Counts every view ID visited in each direct slice.
+12,Sorted-block square-root sums,naive per-range sum,2200,220,5,1.707600,12224,22772,true,Counts complete block totals and edge elements read while processing ranges in sorted left-block order.
+12,Naive range sum,simple baseline,2200,220,5,5.364100,126856,21060,true,Counts every numeric value read from each direct interval.

@@ -1,0 +1,10 @@
+{
+  "command": ".\\.venv\\Scripts\\python.exe -m unittest discover -s tests -v",
+  "run_date": "2026-11-24",
+  "python_version": "3.14.7",
+  "passed": 35,
+  "failed": 0,
+  "skipped": 0,
+  "duration_seconds": 0.139,
+  "result": "OK"
+}

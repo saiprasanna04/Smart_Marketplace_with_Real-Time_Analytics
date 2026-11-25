@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#07131f" />
+    <title>Smart Marketplace · Admin Console</title>
+    <link rel="stylesheet" href="/assets/admin.css" />
+    <script src="/assets/admin.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/"><span class="brand-mark">S</span><span><strong>SMART MARKETPLACE</strong><small>CATALOGUE &amp; ANALYTICS</small></span></a>
+      <nav aria-label="Workspace links"><a href="/">Customer storefront</a><a href="/orders">Order history</a><a href="/workspace">AEDS workspace</a></nav>
+    </header>
+    <main class="page">
+      <section class="hero">
+        <div><p class="eyebrow">LOCAL ADMIN CONSOLE</p><h1>Catalogue and analytics</h1><p>Manage local demo products, inventory and orders. No real customer reviews or live inventory are represented.</p></div>
+        <div class="version"><small>CATALOGUE SNAPSHOT</small><strong id="catalogue-version">Loading…</strong><span>Changes are versioned and stored in local JSON files.</span></div>
+      </section>
+      <section class="section-title"><p class="eyebrow">STORE OPERATIONS</p><h2>Live demo storefront analytics</h2><p>Computed from this catalogue, inventory and recorded demo orders.</p></section>
+      <section id="storefront-metrics" class="metrics" aria-label="Storefront metrics"></section>
+      <section class="layout storefront-analytics">
+        <article class="panel wide"><div class="panel-head"><div><h2>Category distribution</h2><p>Product counts from the actual catalogue.</p></div></div><div id="category-chart" class="category-chart"></div></article>
+        <article class="panel wide"><div class="panel-head"><div><h2>Recent demo orders</h2><p>Saved orders and demo sales from this application instance.</p></div><a href="/orders">Customer order history</a></div><div class="table-wrap"><table><thead><tr><th>Order</th><th>Customer</th><th>Items</th><th>Total</th><th>Status</th></tr></thead><tbody id="order-rows"></tbody></table></div></article>
+      </section>
+      <section class="section-title"><p class="eyebrow">CATALOGUE MANAGEMENT</p><h2>Product inventory</h2><p>Saved catalogue edits appear in customer search and remain after server restart.</p></section>
+      <section id="metrics" class="metrics" aria-label="Algorithm workspace metrics"></section>
+      <section class="layout">
+        <article class="panel wide">
+          <div class="panel-head"><div><h2>Product catalogue</h2><p>Use Edit for complete product changes; stock can also be saved inline.</p></div><input id="catalogue-filter" type="search" placeholder="Filter products…" aria-label="Filter products" /></div>
+          <div class="table-wrap"><table><thead><tr><th>Product</th><th>Category</th><th>Price</th><th>Stock</th><th>Update inventory</th><th>Actions</th></tr></thead><tbody id="product-rows"><tr><td colspan="6">Loading catalogue…</td></tr></tbody></table></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><h2 id="editor-title">Add product</h2><p>Upload a photo and persist editable catalogue fields.</p></div></div>
+          <form id="product-editor" class="form-grid">
+            <label>Product ID<input name="product_id" placeholder="P2001" required /></label>
+            <label>Title<input name="title" maxlength="160" required /></label>
+            <label>Brand<input name="brand" maxlength="100" required /></label>
+            <label>Description<textarea name="description" rows="3" maxlength="1000" required></textarea></label>
+            <label>Category<input name="category" maxlength="80" required /></label>
+            <div class="form-pair"><label>Price (₹)<input name="price" type="number" min="0" step="0.01" required /></label><label>Original price (₹)<input name="original_price" type="number" min="0" step="0.01" /></label></div>
+            <div class="form-pair"><label>Stock<input name="stock" type="number" min="0" step="1" required /></label><label>Sample rating<input name="rating" type="number" min="0" max="5" step="0.1" value="4.0" /></label></div>
+            <label>Sample popularity score<input name="popularity" type="number" min="0" step="1" value="0" /></label>
+            <label>Added date<input name="created_at" type="date" /></label>
+            <label>Specifications (JSON)<textarea name="specifications" rows="3">{}</textarea></label>
+            <label>Product photograph<input name="image_file" type="file" accept="image/*"/><small>Compressed in-browser to WebP before local upload.</small></label>
+            <button id="product-save" class="button-primary" type="submit">Add to catalogue</button>
+            <button class="button-secondary" type="button" data-product-reset>Clear form</button>
+          </form>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><h2>Duplicate listing check</h2><p>Fingerprint narrows candidates; exact comparison decides.</p></div></div>
+          <form id="duplicate-check" class="form-grid"><label>Description to check<textarea name="description" rows="4" required></textarea></label><button class="button-secondary" type="submit">Check description</button></form>
+          <div id="duplicate-output" class="output empty">Enter a description to check the current catalogue.</div>
+        </article>
+        <article class="panel wide">
+          <div class="panel-head"><div><h2>Simulated sales by day</h2><p>Algorithm workspace fixture: purchase events multiplied by local catalogue prices.</p></div><form id="sales-range" class="inline-form"><label>Start index<input name="start" type="number" min="0" value="2" /></label><label>End (exclusive)<input name="end" type="number" min="0" value="9" /></label><button class="button-secondary" type="submit">Query range</button></form></div>
+          <div id="sales-chart" class="sales-chart"></div><div id="sales-output" class="output"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><h2>View-event analytics</h2><p>Mo’s algorithm over the fixed anonymous demo view array.</p></div></div>
+          <form id="distinct-range" class="inline-form"><label>Start<input name="start" type="number" min="0" value="0" /></label><label>End<input name="end" type="number" min="0" value="20" /></label><button class="button-secondary" type="submit">Count distinct</button></form>
+          <div id="distinct-output" class="output"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><h2>Exact phrase index</h2><p>Search descriptions with Session 9 or Session 10.</p></div></div>
+          <form id="substring-search" class="form-grid"><label>Phrase<input name="q" value="wireless" required /></label><label>Algorithm<select name="algorithm"><option value="suffix_array">Suffix array</option><option value="suffix_automaton">Suffix automaton</option></select></label><button class="button-secondary" type="submit">Search descriptions</button></form>
+          <div id="substring-output" class="output"></div>
+        </article>
+        <article class="panel wide">
+          <div class="panel-head"><div><h2>Phase 2 service status</h2><p>Live acceptance checks from actual algorithms and local event fixtures.</p></div><a href="/workspace#roadmap">Open session workspaces →</a></div>
+          <div id="session-status" class="status-grid"></div>
+        </article>
+      </section>
+    </main>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>
